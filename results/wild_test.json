@@ -1,0 +1,160 @@
+{
+  "pool_size": 148381,
+  "labeled": 1000,
+  "out_of_scope_(-1)": 16,
+  "strata": [
+    {
+      "stratum": "F_flagged",
+      "labeled": 145,
+      "profane": 9,
+      "pool_size": 1391,
+      "share_profane": 0.062
+    },
+    {
+      "stratum": "H_auto_hide",
+      "labeled": 142,
+      "profane": 55,
+      "pool_size": 579,
+      "share_profane": 0.387
+    },
+    {
+      "stratum": "O_other_models",
+      "labeled": 150,
+      "profane": 1,
+      "pool_size": 4645,
+      "share_profane": 0.007
+    },
+    {
+      "stratum": "R_review",
+      "labeled": 197,
+      "profane": 4,
+      "pool_size": 6678,
+      "share_profane": 0.02
+    },
+    {
+      "stratum": "U_unflagged",
+      "labeled": 350,
+      "profane": 0,
+      "pool_size": 135088,
+      "share_profane": 0.0
+    }
+  ],
+  "estimates": {
+    "profane_per_10k": 31.0577,
+    "kazroberta_precision": 0.1563,
+    "kazroberta_recall": 0.6426,
+    "kazroberta_false_positive_rate": 0.0108,
+    "mdeberta_precision": 0.0735,
+    "mdeberta_recall": 0.6481,
+    "mdeberta_false_positive_rate": 0.0254,
+    "charcnn_precision": 0.0497,
+    "charcnn_recall": 0.5708,
+    "charcnn_false_positive_rate": 0.034,
+    "profane_auto_hidden": 0.4612,
+    "profane_to_human": 0.4715,
+    "profane_published": 0.0673,
+    "auto_hide_precision": 0.3873,
+    "clean_auto_hidden_per_10k": 22.73,
+    "clean_to_human": 0.0522
+  },
+  "ci95_bootstrap_within_strata": {
+    "profane_per_10k": [
+      21.2685,
+      42.4962
+    ],
+    "kazroberta_precision": [
+      0.1216,
+      0.1922
+    ],
+    "kazroberta_recall": [
+      0.4652,
+      0.8986
+    ],
+    "kazroberta_false_positive_rate": [
+      0.0104,
+      0.0112
+    ],
+    "mdeberta_precision": [
+      0.0509,
+      0.1017
+    ],
+    "mdeberta_recall": [
+      0.4744,
+      0.8521
+    ],
+    "mdeberta_false_positive_rate": [
+      0.022,
+      0.0291
+    ],
+    "charcnn_precision": [
+      0.0335,
+      0.0691
+    ],
+    "charcnn_recall": [
+      0.4155,
+      0.7884
+    ],
+    "charcnn_false_positive_rate": [
+      0.0306,
+      0.0377
+    ],
+    "profane_auto_hidden": [
+      0.3247,
+      0.6535
+    ],
+    "profane_to_human": [
+      0.2782,
+      0.6242
+    ],
+    "profane_published": [
+      0.0,
+      0.2019
+    ],
+    "auto_hide_precision": [
+      0.3099,
+      0.4648
+    ],
+    "clean_auto_hidden_per_10k": [
+      19.8646,
+      25.5904
+    ],
+    "clean_to_human": [
+      0.0512,
+      0.0529
+    ]
+  },
+  "estimates_unsure_positives_as_0": {
+    "profane_per_10k": 20.0267,
+    "kazroberta_precision": 0.1228,
+    "kazroberta_recall": 0.7832,
+    "kazroberta_false_positive_rate": 0.0112,
+    "mdeberta_precision": 0.0612,
+    "mdeberta_recall": 0.836,
+    "mdeberta_false_positive_rate": 0.0258,
+    "charcnn_precision": 0.0406,
+    "charcnn_recall": 0.7239,
+    "charcnn_false_positive_rate": 0.0343,
+    "profane_auto_hidden": 0.5332,
+    "profane_to_human": 0.3625,
+    "profane_published": 0.1043,
+    "auto_hide_precision": 0.2887,
+    "clean_auto_hidden_per_10k": 26.3585,
+    "clean_to_human": 0.0528
+  },
+  "kazroberta_recall_worst_case_lower_bound": 0.1835,
+  "unsure_labels": 36,
+  "kazroberta_flag_rate_by_domain": {
+    "appstore": 0.017,
+    "bookstore": 0.0077,
+    "mapping": 0.0046,
+    "market": 0.0002
+  },
+  "market_reviews_in_pool": 24918,
+  "thresholds": {
+    "kazroberta": 0.987,
+    "mdeberta": 0.7889,
+    "charcnn": 0.4378,
+    "t_hide": 0.9996,
+    "t_review": 0.0118
+  }
+}

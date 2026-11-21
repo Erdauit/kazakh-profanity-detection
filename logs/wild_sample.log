@@ -1,0 +1,14 @@
+KazSAnDRA 175158 -> unused, deduplicated, lexicon-free 150384 -> not near-dup of train 148381
+Loading weights:   0%|          | 0/105 [00:00<?, ?it/s]Loading weights: 100%|██████████| 105/105 [00:00<00:00, 8424.07it/s]
+scored kazroberta
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 4924.29it/s]
+scored mdeberta
+scored charcnn
+stratum
+U_unflagged       135088
+R_review            6678
+O_other_models      4645
+F_flagged           1391
+H_auto_hide          579
+sample: 1000 -> data\interim\wild_sample.csv
+exit 0

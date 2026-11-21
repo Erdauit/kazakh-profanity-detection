@@ -33,6 +33,8 @@ On 1,500 ordinary Kaspi product reviews it produced **0 false positives**.
 6. **Explanations**: leave-one-word-out shows which word triggered each prediction.
 7. **Stress test**: masking (с*ка), Latin (qotaq), no Kazakh keyboard (котак), stretched
    letters, s p a c e d letters, digits (қ0т@қ).
+8. **In-the-wild test**: 148k ordinary reviews that contain no known swear word, 1,000 labeled
+   blind — the honest precision on real traffic and what profanity the word list misses.
 
 ---
 
@@ -62,6 +64,7 @@ Full card: **[docs/DATASET.md](docs/DATASET.md)** · rules: **[docs/labeling_gui
 | val | 926 | 409 | model / architecture selection, thresholds |
 | test | 930 | 419 | final evaluation |
 | clean_eval | 2,999 | 3 | false-positive test on ordinary reviews |
+| wild sample | 1,000 (stratified from 148,381) | 69 | in-the-wild test, no lexicon words ([below](#in-the-wild-ordinary-reviews-without-known-swear-words-scripts12_wild_testpy)) |
 
 Examples:
 
@@ -209,6 +212,55 @@ Each test row rewritten with one disguise (`results/stress_test.csv`); F1 on tes
 * Practical improvement: Latin → Cyrillic transliteration and "join single letters separated by
   spaces" before the model, plus spaced / leet / clean-masked rows in the synthetic data.
 
+### In the wild: ordinary reviews without known swear words (`scripts/12_wild_test.py`)
+
+Profane candidates for the dataset were found with the lexicon, so **413 of the 419 profane test
+rows contain a lexicon word**: the test mostly measures known words and their disguises. To see what
+happens on real traffic, the final model was run on the rest of KazSAnDRA: **148,381 reviews never
+used anywhere, with no lexicon word and no near-duplicate in train**. Any profanity in this pool is
+profanity the word list does not know. Three models scored the pool; 1,000 reviews were drawn from
+five strata and labeled **blind** (text only, no scores) with the same guidelines; estimates are
+re-weighted to the whole pool (stratified estimator, bootstrap 95% CI).
+
+| stratum by Kaz-RoBERTa score (pool size) | labeled | profane |
+|---|---|---|
+| auto-hide, p ≥ 0.9996 (579) | 142 | 55 (39%) |
+| flagged, 0.987 ≤ p < 0.9996 (1,391) | 145 | 9 (6%) |
+| human-review band, 0.0118 ≤ p < 0.987 (6,678) | 197 | 4 (2%) |
+| below, but mDeBERTa or char-CNN flags (4,645) | 150 | 1 |
+| nobody flags (135,088) | 350 | 0 |
+
+| whole pool (148,381) | **Kaz-RoBERTa** | mDeBERTa | char-CNN |
+|---|---|---|---|
+| precision | **0.16** (0.12–0.19) | 0.07 | 0.05 |
+| recall | 0.64 (0.47–0.90)¹ | 0.65 | 0.57 |
+| false-positive rate | **1.1%** | 2.5% | 3.4% |
+
+¹ 0 profane in 350 unflagged rows still allows up to 0.85% of them to be profane (one-sided 95%);
+in that worst case recall is 0.18. A random sample cannot pin recall down when profanity is this rare.
+
+* **Profanity the lexicon does not know is rare but real: ≈31 per 10,000 ordinary reviews** (21–42):
+  «еба» / «ебаит» as fillers, curses «шешеңді сгин» / «аузын скин», «тупойски», «гавно», «пидес» /
+  «пизес», «көтски», «ишактар». The model finds such words: 55 of the 142 auto-hidden sample rows.
+* **The false-positive rate is the same as on test** (1.1% vs 1.2%; clean_eval 0.9%), yet **precision
+  falls from 0.985 to 0.16**. The model did not get worse; the base rate changed (test is 45% profane,
+  this pool 0.3%), so 1% of clean reviews outnumber the profane ones. The false alarms are youth slang:
+  зың / зын ("cool"), чёткий / чотки, дерзкий / дерски, маладес (молодец), misspelled күшті, «Бл» (= бұл),
+  short garbled texts. They are app reviews: of **24,918 marketplace product reviews the model flagged
+  5 (0.02%) and auto-hid none**.
+* **Moderation on this traffic**: auto-hide precision is 0.39, too low for app reviews; 0.23% of clean
+  reviews would be hidden and 5.2% sent to a human.
+* **Kaz-RoBERTa is also the best of the three here** (2–3× the precision at similar recall), which
+  agrees with the validation-based choice.
+* **Practical fixes**: (1) auto-hide only when p ≥ t_hide *and* the lexicon fires, send model-only hits
+  to a human (here: +0.4% of traffic in the queue, no honest review hidden automatically); (2) add the
+  slang above as hard negatives and the new forms (еба, сгин, пидес …) as positives, then retrain
+  (2 minutes); (3) for product reviews, the task's domain, the current model works as is.
+
+Labels: `data/wild_labels.csv` (AI-assisted, blind, same guidelines; 36 marked "unsure"; counting the
+unsure positives as 0 gives precision 0.12 and recall 0.78). Every labeled row with the three scores:
+`results/wild_test_labeled.csv`; all numbers: `results/wild_test.json`.
+
 ### Error analysis
 
 Files: `results/test_predictions.csv`, `results/test_errors.csv` (28 FN, 6 FP, sorted by confidence),
@@ -275,6 +327,8 @@ python scripts/11_compare_architectures.py   # selection on val + speed / size t
 python scripts/06_evaluate.py --split test   # final model on test + clean_eval -> results/
 python scripts/07_moderation.py              # two-threshold policy + PR curve
 python scripts/08_stress_test.py             # obfuscation stress test, all models
+python scripts/12_wild_test.py sample        # in-the-wild pool, 3 models, stratified sample
+python scripts/12_wild_test.py evaluate      # with data/wild_labels.csv -> results/wild_test.json
 ```
 
 Manual decisions (`data/label_corrections.csv`, `data/interim/review_decisions_part*.csv`,
@@ -288,6 +342,9 @@ files byte-for-byte.
 * Labels of mined rows were produced by lexicon + model agreement or by AI-assisted review against
   written rules — not by multiple human annotators.
 * Most data are Google Play app reviews; marketplace product reviews are a minority.
+* Profane training and test rows were found through the lexicon. On ordinary app reviews without
+  lexicon words, precision is only 0.16 (youth slang such as зың, чёткий, дерзкий triggers it) and
+  recall cannot be pinned down; on marketplace product reviews false alarms are rare (0.02%).
 * clean_eval labels are "silver" (lexicon-free + low reference-model score).
 * The final model is less robust to Latin / digit disguises than mDeBERTa or the char-CNN
   (see the stress test); its probabilities are over-confident (threshold 0.987).
@@ -298,7 +355,7 @@ files byte-for-byte.
 ```
 predict.py                     custom text -> label, probability, decision, trigger words
 src/                           preprocess, inference (sliding windows), explain, char-CNN, lexicon, augment
-scripts/00..11                 data pipeline, training, evaluation, moderation, stress test, comparison, upload
+scripts/00..12                 data pipeline, training, evaluation, moderation, stress test, comparison, upload, wild test
 data/processed/                final dataset (see docs/DATASET.md)
 results/                       metrics, confusion matrix, PR curve, predictions, errors, comparisons
 results/xlmr_base/             the same evaluation for the XLM-R run
@@ -308,6 +365,6 @@ docs/                          dataset card and labeling guidelines
 
 ## Acknowledgement of assistance
 
-Code, data audit, lexicon and the review of ambiguous mined rows were done with the help of an
+Code, data audit, lexicon, the review of ambiguous mined rows and the blind labeling of the wild sample were done with the help of an
 AI assistant (Claude). Every changed or reviewed label is stored with a written reason; the
 labeling rules, model choice and analysis were checked and are explained by me.
