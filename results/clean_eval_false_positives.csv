@@ -1,0 +1,28 @@
+id,text,label,label_source,domain,stars,prob,pred
+map001190map,Бащар жоқ шашликі зың екен,0,silver_lexicon_free+model,mapping,5,0.9998,1
+pla091743pla,Menshe karty,0,silver_lexicon_free+model,appstore,4,0.9997,1
+pla031559pla,Далбасаго,0,manual_review,appstore,1,0.9996,1
+pla089247pla,Вот эта кайф ойын тек аздап ойын қатады екен,0,silver_lexicon_free+model,appstore,5,0.9996,1
+pla001508pla,поху маған кушті оиын,0,silver_lexicon_free+model,appstore,5,0.9995,1
+pla103655pla,Яссин суресин коссаныз жаксы болар еди,0,silver_lexicon_free+model,appstore,5,0.9993,1
+pla002391pla,зынго осы оиын,0,silver_lexicon_free+model,appstore,5,0.9993,1
+pla065728pla,Отірік боттар жынға тиед,0,silver_lexicon_free+model,appstore,1,0.9992,1
+pla078184pla,Адеми екен Кукккк,0,silver_lexicon_free+model,appstore,5,0.999,1
+pla054342pla,Ужас!!! Игра фуууууу🤮🤮🤮🤢🤢👎👎👎👎.Тока Бока лучше,0,silver_lexicon_free+model,appstore,1,0.9988,1
+pla058498pla,Тока бокадан асқан ойын жоқ,0,manual_review,appstore,5,0.9987,1
+pla076310pla,Наны оинасың фри фаирды ұмытасың ана атс патыс емес,0,silver_lexicon_free+model,appstore,5,0.9987,1
+gis004577gis,Күтуге келіп едім еба бір туалетке кіргізбейт. 2сағат шыдап тұруға жәдбүр болдым не мынау кіші дәреттен ковид табылмайтын шығар ұят емесба мынау. Карантинде адамдар дорба дорбамен ұшуға болат сиюге болмай ма?,0,silver_lexicon_free+model,mapping,1,0.9981,1
+pla072151pla,Ботски фф мықты,0,silver_lexicon_free+model,appstore,1,0.998,1
+pla124148pla,Базар жоққо проста,0,silver_lexicon_free+model,appstore,5,0.997,1
+pla034383pla,Суйем,0,silver_lexicon_free+model,appstore,5,0.9962,1
+pla055962pla,Садақа,0,silver_lexicon_free+model,appstore,4,0.996,1
+pla087566pla,Зын зын ойын айтамадым,0,silver_lexicon_free+model,appstore,5,0.9957,1
+pla099533pla,Оте нашар сурактардын жауабы дурыс емес кате кездеседі жарнама збымды шыгарды,0,silver_lexicon_free+model,appstore,2,0.9954,1
+pla076991pla,Ишати,0,silver_lexicon_free+model,appstore,5,0.9949,1
+pla017880pla,Ортанша,0,silver_lexicon_free+model,appstore,1,0.9946,1
+pla059559pla,Пырақтар ойыны маған ұнады,0,silver_lexicon_free+model,appstore,5,0.9942,1
+pla038542pla,Пастаян акша туспи калады копнесе керек кезде тупит етеды,0,silver_lexicon_free+model,appstore,1,0.9932,1
+pla089047pla,Талкинг жуан хуан осы жиіркенішті мысық,0,silver_lexicon_free+model,appstore,5,0.9924,1
+pla091984pla,Удалите игру шаткан шайтан вөте кыс,0,silver_lexicon_free+model,appstore,1,0.9922,1
+pla052710pla,Оку сауаттылық косылса вообще кушты болар еды,0,silver_lexicon_free+model,appstore,4,0.9922,1
+pla101154pla,Дал мамке она оценила,0,silver_lexicon_free+model,appstore,5,0.9896,1

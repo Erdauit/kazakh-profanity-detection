@@ -1,0 +1,297 @@
+{
+  "test": {
+    "n": 930,
+    "n_profane": 419,
+    "threshold": 0.987,
+    "precision": 0.9849,
+    "recall": 0.9332,
+    "f1": 0.9583,
+    "accuracy": 0.9634,
+    "confusion_matrix": {
+      "tn": 505,
+      "fp": 6,
+      "fn": 28,
+      "tp": 391
+    },
+    "false_positive_rate": 0.0117
+  },
+  "test_obfuscated": {
+    "n": 930,
+    "n_profane": 419,
+    "threshold": 0.987,
+    "precision": 0.9513,
+    "recall": 0.8854,
+    "f1": 0.9172,
+    "accuracy": 0.928,
+    "confusion_matrix": {
+      "tn": 492,
+      "fp": 19,
+      "fn": 48,
+      "tp": 371
+    },
+    "false_positive_rate": 0.0372
+  },
+  "selection_score": 0.9378,
+  "test_by_subset": {
+    "clean_negative": {
+      "n": 93,
+      "n_profane": 0,
+      "threshold": 0.987,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "accuracy": 1.0,
+      "confusion_matrix": {
+        "tn": 93,
+        "fp": 0,
+        "fn": 0,
+        "tp": 0
+      },
+      "false_positive_rate": 0.0
+    },
+    "clean_random": {
+      "n": 192,
+      "n_profane": 1,
+      "threshold": 0.987,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "accuracy": 1.0,
+      "confusion_matrix": {
+        "tn": 191,
+        "fp": 0,
+        "fn": 0,
+        "tp": 1
+      },
+      "false_positive_rate": 0.0
+    },
+    "course": {
+      "n": 286,
+      "n_profane": 174,
+      "threshold": 0.987,
+      "precision": 0.9878,
+      "recall": 0.931,
+      "f1": 0.9586,
+      "accuracy": 0.951,
+      "confusion_matrix": {
+        "tn": 110,
+        "fp": 2,
+        "fn": 12,
+        "tp": 162
+      },
+      "false_positive_rate": 0.0179
+    },
+    "hard_negative": {
+      "n": 73,
+      "n_profane": 0,
+      "threshold": 0.987,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "accuracy": 0.9863,
+      "confusion_matrix": {
+        "tn": 72,
+        "fp": 1,
+        "fn": 0,
+        "tp": 0
+      },
+      "false_positive_rate": 0.0137
+    },
+    "mined_lexicon_hit": {
+      "n": 286,
+      "n_profane": 244,
+      "threshold": 0.987,
+      "precision": 0.987,
+      "recall": 0.9344,
+      "f1": 0.96,
+      "accuracy": 0.9336,
+      "confusion_matrix": {
+        "tn": 39,
+        "fp": 3,
+        "fn": 16,
+        "tp": 228
+      },
+      "false_positive_rate": 0.0714
+    }
+  },
+  "test_by_label_source": {
+    "auto_lexicon+model": {
+      "n": 531,
+      "n_profane": 180,
+      "threshold": 0.987,
+      "precision": 1.0,
+      "recall": 0.9778,
+      "f1": 0.9888,
+      "accuracy": 0.9925,
+      "confusion_matrix": {
+        "tn": 351,
+        "fp": 0,
+        "fn": 4,
+        "tp": 176
+      },
+      "false_positive_rate": 0.0
+    },
+    "course": {
+      "n": 283,
+      "n_profane": 173,
+      "threshold": 0.987,
+      "precision": 0.9877,
+      "recall": 0.9306,
+      "f1": 0.9583,
+      "accuracy": 0.9505,
+      "confusion_matrix": {
+        "tn": 108,
+        "fp": 2,
+        "fn": 12,
+        "tp": 161
+      },
+      "false_positive_rate": 0.0182
+    },
+    "course_corrected": {
+      "n": 3,
+      "n_profane": 1,
+      "threshold": 0.987,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "accuracy": 1.0,
+      "confusion_matrix": {
+        "tn": 2,
+        "fp": 0,
+        "fn": 0,
+        "tp": 1
+      },
+      "false_positive_rate": 0.0
+    },
+    "manual_review": {
+      "n": 113,
+      "n_profane": 65,
+      "threshold": 0.987,
+      "precision": 0.9298,
+      "recall": 0.8154,
+      "f1": 0.8689,
+      "accuracy": 0.8584,
+      "confusion_matrix": {
+        "tn": 44,
+        "fp": 4,
+        "fn": 12,
+        "tp": 53
+      },
+      "false_positive_rate": 0.0833
+    }
+  },
+  "clean_eval": {
+    "n": 2999,
+    "n_profane": 3,
+    "threshold": 0.987,
+    "precision": 0.069,
+    "recall": 0.6667,
+    "f1": 0.125,
+    "accuracy": 0.9907,
+    "confusion_matrix": {
+      "tn": 2969,
+      "fp": 27,
+      "fn": 1,
+      "tp": 2
+    },
+    "false_positive_rate": 0.009
+  },
+  "clean_eval_by_domain": {
+    "appstore": {
+      "n": 1340,
+      "n_profane": 3,
+      "threshold": 0.987,
+      "precision": 0.0741,
+      "recall": 0.6667,
+      "f1": 0.1333,
+      "accuracy": 0.9806,
+      "confusion_matrix": {
+        "tn": 1312,
+        "fp": 25,
+        "fn": 1,
+        "tp": 2
+      },
+      "false_positive_rate": 0.0187
+    },
+    "bookstore": {
+      "n": 57,
+      "n_profane": 0,
+      "threshold": 0.987,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "accuracy": 1.0,
+      "confusion_matrix": {
+        "tn": 57,
+        "fp": 0,
+        "fn": 0,
+        "tp": 0
+      },
+      "false_positive_rate": 0.0
+    },
+    "mapping": {
+      "n": 102,
+      "n_profane": 0,
+      "threshold": 0.987,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "accuracy": 0.9804,
+      "confusion_matrix": {
+        "tn": 100,
+        "fp": 2,
+        "fn": 0,
+        "tp": 0
+      },
+      "false_positive_rate": 0.0196
+    },
+    "market": {
+      "n": 1500,
+      "n_profane": 0,
+      "threshold": 0.987,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "accuracy": 1.0,
+      "confusion_matrix": {
+        "tn": 1500,
+        "fp": 0,
+        "fn": 0,
+        "tp": 0
+      },
+      "false_positive_rate": 0.0
+    }
+  },
+  "model_config": {
+    "arch": "transformer",
+    "model_name": "kz-transformers/kaz-roberta-conversational",
+    "run_name": "kazroberta",
+    "max_len": 128,
+    "threshold": 0.987,
+    "threshold_rule": "max F1 on val (highest thr among ties)",
+    "best_epoch": 4,
+    "val_f1@0.5": 0.9575,
+    "val_f1@threshold": 0.9615,
+    "preprocess_version": "v1",
+    "long_text": "sliding windows, stride max_len//2, max prob",
+    "train": {
+      "synthetic": true,
+      "n_train": 9181,
+      "batch_size": 32,
+      "lr": 2e-05,
+      "epochs": 4,
+      "warmup": 0.1,
+      "weight_decay": 0.01,
+      "seed": 42,
+      "precision": "fp16",
+      "optimizer": "AdamW",
+      "scheduler": "linear warmup/decay",
+      "grad_clip": 1.0,
+      "loss": "cross-entropy"
+    },
+    "n_params": 83452418,
+    "train_minutes": 1.7,
+    "torch": "2.11.0+cu128",
+    "device": "NVIDIA GeForce RTX 4060 Ti"
+  }
+}

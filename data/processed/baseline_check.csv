@@ -1,0 +1,21 @@
+setup,n_train,set,n,pos,P,R,F1,FP,FN,FP_rate_on_clean
+course_only(original labels),2464,val,926,409,0.931,0.863,0.896,26,56,0.0503
+course_only(original labels),2464,test,930,419,0.949,0.84,0.891,19,67,0.0372
+course_only(original labels),2464,test[course rows],286,174,0.945,0.885,0.914,9,20,0.0804
+course_only(original labels),2464,test_obfuscated,930,419,0.95,0.819,0.879,18,76,0.0352
+course_only(original labels),2464,clean_eval,2999,3,0.075,1.0,0.14,37,0,0.0123
+course_only(corrected),2464,val,926,409,0.931,0.858,0.893,26,58,0.0503
+course_only(corrected),2464,test,930,419,0.949,0.847,0.895,19,64,0.0372
+course_only(corrected),2464,test[course rows],286,174,0.951,0.897,0.923,8,18,0.0714
+course_only(corrected),2464,test_obfuscated,930,419,0.941,0.831,0.882,22,71,0.0431
+course_only(corrected),2464,clean_eval,2999,3,0.073,1.0,0.136,38,0,0.0127
+v2_train,7504,val,926,409,0.947,0.922,0.934,21,32,0.0406
+v2_train,7504,test,930,419,0.958,0.931,0.944,17,29,0.0333
+v2_train,7504,test[course rows],286,174,0.959,0.931,0.945,7,12,0.0625
+v2_train,7504,test_obfuscated,930,419,0.959,0.888,0.922,16,47,0.0313
+v2_train,7504,clean_eval,2999,3,0.086,1.0,0.158,32,0,0.0107
+v2_train+synthetic,9181,val,926,409,0.947,0.914,0.93,21,35,0.0406
+v2_train+synthetic,9181,test,930,419,0.96,0.919,0.939,16,34,0.0313
+v2_train+synthetic,9181,test[course rows],286,174,0.958,0.92,0.938,7,14,0.0625
+v2_train+synthetic,9181,test_obfuscated,930,419,0.953,0.912,0.932,19,37,0.0372
+v2_train+synthetic,9181,clean_eval,2999,3,0.075,1.0,0.14,37,0,0.0123

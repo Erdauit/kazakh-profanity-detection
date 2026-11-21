@@ -1,0 +1,22 @@
+train 9181 rows, vocab 422 chars, params 192,898, device cuda
+{'epoch': 1, 'train_loss': 0.5178, 'val_f1@0.5': 0.8502, 'val_best_thr': 0.5629, 'val_f1@best_thr': 0.8589, 'val_pr_auc': 0.9442, 'minutes': 0.04}
+{'epoch': 2, 'train_loss': 0.3549, 'val_f1@0.5': 0.759, 'val_best_thr': 0.1508, 'val_f1@best_thr': 0.8811, 'val_pr_auc': 0.9578, 'minutes': 0.07}
+{'epoch': 3, 'train_loss': 0.2887, 'val_f1@0.5': 0.8996, 'val_best_thr': 0.657, 'val_f1@best_thr': 0.9127, 'val_pr_auc': 0.9749, 'minutes': 0.1}
+{'epoch': 4, 'train_loss': 0.2326, 'val_f1@0.5': 0.9155, 'val_best_thr': 0.3345, 'val_f1@best_thr': 0.933, 'val_pr_auc': 0.9782, 'minutes': 0.13}
+{'epoch': 5, 'train_loss': 0.1829, 'val_f1@0.5': 0.9216, 'val_best_thr': 0.7378, 'val_f1@best_thr': 0.931, 'val_pr_auc': 0.9806, 'minutes': 0.16}
+{'epoch': 6, 'train_loss': 0.1618, 'val_f1@0.5': 0.928, 'val_best_thr': 0.2057, 'val_f1@best_thr': 0.9467, 'val_pr_auc': 0.9829, 'minutes': 0.18}
+{'epoch': 7, 'train_loss': 0.1081, 'val_f1@0.5': 0.9268, 'val_best_thr': 0.1552, 'val_f1@best_thr': 0.9379, 'val_pr_auc': 0.9813, 'minutes': 0.21}
+{'epoch': 8, 'train_loss': 0.0887, 'val_f1@0.5': 0.9399, 'val_best_thr': 0.7076, 'val_f1@best_thr': 0.9428, 'val_pr_auc': 0.9833, 'minutes': 0.24}
+{'epoch': 9, 'train_loss': 0.0667, 'val_f1@0.5': 0.9213, 'val_best_thr': 0.9249, 'val_f1@best_thr': 0.947, 'val_pr_auc': 0.9859, 'minutes': 0.26}
+{'epoch': 10, 'train_loss': 0.0506, 'val_f1@0.5': 0.9446, 'val_best_thr': 0.1567, 'val_f1@best_thr': 0.9558, 'val_pr_auc': 0.986, 'minutes': 0.29}
+{'epoch': 11, 'train_loss': 0.0268, 'val_f1@0.5': 0.9475, 'val_best_thr': 0.7208, 'val_f1@best_thr': 0.9506, 'val_pr_auc': 0.9859, 'minutes': 0.32}
+{'epoch': 12, 'train_loss': 0.026, 'val_f1@0.5': 0.9379, 'val_best_thr': 0.3028, 'val_f1@best_thr': 0.9474, 'val_pr_auc': 0.9851, 'minutes': 0.35}
+{'epoch': 13, 'train_loss': 0.0204, 'val_f1@0.5': 0.9357, 'val_best_thr': 0.1045, 'val_f1@best_thr': 0.9484, 'val_pr_auc': 0.9856, 'minutes': 0.37}
+{'epoch': 14, 'train_loss': 0.0136, 'val_f1@0.5': 0.951, 'val_best_thr': 0.4378, 'val_f1@best_thr': 0.9561, 'val_pr_auc': 0.9865, 'minutes': 0.4}
+{'epoch': 15, 'train_loss': 0.0095, 'val_f1@0.5': 0.9465, 'val_best_thr': 0.1935, 'val_f1@best_thr': 0.9527, 'val_pr_auc': 0.9866, 'minutes': 0.43}
+{'epoch': 16, 'train_loss': 0.0084, 'val_f1@0.5': 0.9451, 'val_best_thr': 0.258, 'val_f1@best_thr': 0.9513, 'val_pr_auc': 0.9864, 'minutes': 0.46}
+{'epoch': 17, 'train_loss': 0.0077, 'val_f1@0.5': 0.9478, 'val_best_thr': 0.2871, 'val_f1@best_thr': 0.9549, 'val_pr_auc': 0.9869, 'minutes': 0.48}
+{'epoch': 18, 'train_loss': 0.0065, 'val_f1@0.5': 0.9492, 'val_best_thr': 0.314, 'val_f1@best_thr': 0.9549, 'val_pr_auc': 0.9872, 'minutes': 0.51}
+{'epoch': 19, 'train_loss': 0.0052, 'val_f1@0.5': 0.9489, 'val_best_thr': 0.3323, 'val_f1@best_thr': 0.9544, 'val_pr_auc': 0.987, 'minutes': 0.54}
+{'epoch': 20, 'train_loss': 0.0059, 'val_f1@0.5': 0.9478, 'val_best_thr': 0.3426, 'val_f1@best_thr': 0.9544, 'val_pr_auc': 0.987, 'minutes': 0.57}
+saved best epoch 14 -> models\charcnn | threshold 0.4378

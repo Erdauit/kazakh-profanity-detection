@@ -1,0 +1,36 @@
+{
+  "model": "models/xlmr_base",
+  "val": {
+    "n": 926,
+    "n_profane": 409,
+    "threshold": 0.4164,
+    "precision": 0.9216,
+    "recall": 0.9487,
+    "f1": 0.9349,
+    "accuracy": 0.9417,
+    "confusion_matrix": {
+      "tn": 484,
+      "fp": 33,
+      "fn": 21,
+      "tp": 388
+    },
+    "false_positive_rate": 0.0638
+  },
+  "val_obfuscated": {
+    "n": 926,
+    "n_profane": 409,
+    "threshold": 0.4164,
+    "precision": 0.8707,
+    "recall": 0.9389,
+    "f1": 0.9035,
+    "accuracy": 0.9114,
+    "confusion_matrix": {
+      "tn": 460,
+      "fp": 57,
+      "fn": 25,
+      "tp": 384
+    },
+    "false_positive_rate": 0.1103
+  },
+  "selection_score": 0.9192
+}

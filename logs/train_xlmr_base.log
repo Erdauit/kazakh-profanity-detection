@@ -1,0 +1,75 @@
+train rows: 9181 (synthetic: 1677), val rows: 926, device: cuda
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/197 [00:00<?, ?it/s]Loading weights: 100%|██████████| 197/197 [00:00<00:00, 8760.00it/s]
+[transformers] [1mXLMRobertaForSequenceClassification LOAD REPORT[0m from: FacebookAI/xlm-roberta-base
+Key                         | Status     | 
+----------------------------+------------+-
+lm_head.layer_norm.bias     | UNEXPECTED | 
+lm_head.dense.weight        | UNEXPECTED | 
+lm_head.dense.bias          | UNEXPECTED | 
+lm_head.layer_norm.weight   | UNEXPECTED | 
+roberta.pooler.dense.bias   | UNEXPECTED | 
+lm_head.bias                | UNEXPECTED | 
+roberta.pooler.dense.weight | UNEXPECTED | 
+classifier.out_proj.weight  | MISSING    | 
+classifier.dense.weight     | MISSING    | 
+classifier.dense.bias       | MISSING    | 
+classifier.out_proj.bias    | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+epoch 1 step 25/287 loss 0.6786 | 2.6 it/s | elapsed 0.2 min | ETA 7.3 min
+epoch 1 step 50/287 loss 0.6667 | 2.2 it/s | elapsed 0.4 min | ETA 8.3 min
+epoch 1 step 75/287 loss 0.6500 | 1.9 it/s | elapsed 0.7 min | ETA 9.5 min
+epoch 1 step 100/287 loss 0.6291 | 1.7 it/s | elapsed 1.0 min | ETA 10.1 min
+epoch 1 step 125/287 loss 0.6097 | 1.7 it/s | elapsed 1.2 min | ETA 9.8 min
+epoch 1 step 150/287 loss 0.5870 | 1.7 it/s | elapsed 1.5 min | ETA 9.8 min
+epoch 1 step 175/287 loss 0.5634 | 1.7 it/s | elapsed 1.7 min | ETA 9.7 min
+epoch 1 step 200/287 loss 0.5404 | 1.6 it/s | elapsed 2.0 min | ETA 9.6 min
+epoch 1 step 225/287 loss 0.5161 | 1.6 it/s | elapsed 2.3 min | ETA 9.3 min
+epoch 1 step 250/287 loss 0.5046 | 1.6 it/s | elapsed 2.5 min | ETA 9.1 min
+epoch 1 step 275/287 loss 0.4909 | 1.7 it/s | elapsed 2.8 min | ETA 8.8 min
+{'epoch': 1, 'train_loss': 0.4835, 'val_f1@0.5': 0.8786, 'val_best_thr': 0.272, 'val_f1@best_thr': 0.8881, 'val_pr_auc': 0.9573, 'minutes': 2.9}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.81s/it]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.81s/it]
+epoch 2 step 13/287 loss 0.3263 | 1.6 it/s | elapsed 3.2 min | ETA 9.0 min
+epoch 2 step 38/287 loss 0.2900 | 1.6 it/s | elapsed 3.5 min | ETA 8.8 min
+epoch 2 step 63/287 loss 0.2690 | 1.6 it/s | elapsed 3.7 min | ETA 8.5 min
+epoch 2 step 88/287 loss 0.2515 | 1.6 it/s | elapsed 4.0 min | ETA 8.3 min
+epoch 2 step 113/287 loss 0.2455 | 1.5 it/s | elapsed 4.3 min | ETA 8.1 min
+epoch 2 step 138/287 loss 0.2433 | 1.5 it/s | elapsed 4.7 min | ETA 8.1 min
+epoch 2 step 163/287 loss 0.2393 | 1.4 it/s | elapsed 5.2 min | ETA 8.0 min
+epoch 2 step 188/287 loss 0.2350 | 1.4 it/s | elapsed 5.5 min | ETA 7.8 min
+epoch 2 step 213/287 loss 0.2300 | 1.5 it/s | elapsed 5.6 min | ETA 7.3 min
+epoch 2 step 238/287 loss 0.2287 | 1.5 it/s | elapsed 5.9 min | ETA 7.1 min
+epoch 2 step 263/287 loss 0.2261 | 1.5 it/s | elapsed 6.3 min | ETA 6.8 min
+{'epoch': 2, 'train_loss': 0.2246, 'val_f1@0.5': 0.921, 'val_best_thr': 0.3627, 'val_f1@best_thr': 0.922, 'val_pr_auc': 0.9767, 'minutes': 6.6}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.08s/it]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.08s/it]
+epoch 3 step 1/287 loss 0.1415 | 1.5 it/s | elapsed 6.6 min | ETA 6.6 min
+epoch 3 step 26/287 loss 0.1390 | 1.4 it/s | elapsed 7.0 min | ETA 6.4 min
+epoch 3 step 51/287 loss 0.1425 | 1.4 it/s | elapsed 7.6 min | ETA 6.3 min
+epoch 3 step 76/287 loss 0.1559 | 1.3 it/s | elapsed 8.2 min | ETA 6.3 min
+epoch 3 step 101/287 loss 0.1501 | 1.3 it/s | elapsed 8.7 min | ETA 6.1 min
+epoch 3 step 126/287 loss 0.1510 | 1.3 it/s | elapsed 9.1 min | ETA 5.8 min
+epoch 3 step 151/287 loss 0.1483 | 1.3 it/s | elapsed 9.3 min | ETA 5.4 min
+epoch 3 step 176/287 loss 0.1473 | 1.3 it/s | elapsed 9.4 min | ETA 5.0 min
+epoch 3 step 201/287 loss 0.1441 | 1.3 it/s | elapsed 9.6 min | ETA 4.6 min
+epoch 3 step 226/287 loss 0.1432 | 1.4 it/s | elapsed 9.8 min | ETA 4.3 min
+epoch 3 step 251/287 loss 0.1396 | 1.4 it/s | elapsed 10.1 min | ETA 3.9 min
+epoch 3 step 276/287 loss 0.1364 | 1.3 it/s | elapsed 10.6 min | ETA 3.7 min
+{'epoch': 3, 'train_loss': 0.1348, 'val_f1@0.5': 0.9268, 'val_best_thr': 0.9691, 'val_f1@best_thr': 0.93, 'val_pr_auc': 0.9805, 'minutes': 11.0}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.91s/it]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.91s/it]
+epoch 4 step 14/287 loss 0.0927 | 1.3 it/s | elapsed 11.2 min | ETA 3.5 min
+epoch 4 step 39/287 loss 0.1006 | 1.3 it/s | elapsed 11.5 min | ETA 3.2 min
+epoch 4 step 64/287 loss 0.1000 | 1.3 it/s | elapsed 11.8 min | ETA 2.9 min
+epoch 4 step 89/287 loss 0.0938 | 1.2 it/s | elapsed 12.7 min | ETA 2.7 min
+epoch 4 step 114/287 loss 0.1035 | 1.2 it/s | elapsed 13.7 min | ETA 2.4 min
+epoch 4 step 139/287 loss 0.0978 | 1.1 it/s | elapsed 14.5 min | ETA 2.1 min
+epoch 4 step 164/287 loss 0.0980 | 1.2 it/s | elapsed 14.8 min | ETA 1.8 min
+epoch 4 step 189/287 loss 0.0970 | 1.1 it/s | elapsed 15.3 min | ETA 1.4 min
+epoch 4 step 214/287 loss 0.0993 | 1.1 it/s | elapsed 15.8 min | ETA 1.1 min
+epoch 4 step 239/287 loss 0.0971 | 1.1 it/s | elapsed 16.8 min | ETA 0.7 min
+epoch 4 step 264/287 loss 0.0974 | 1.1 it/s | elapsed 17.8 min | ETA 0.4 min
+{'epoch': 4, 'train_loss': 0.0964, 'val_f1@0.5': 0.9348, 'val_best_thr': 0.4164, 'val_f1@best_thr': 0.9349, 'val_pr_auc': 0.9811, 'minutes': 18.8}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.06it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.06it/s]
+saved best epoch 4 -> models\xlmr_base | threshold 0.4164

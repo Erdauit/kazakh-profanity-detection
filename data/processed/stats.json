@@ -1,0 +1,70 @@
+{
+  "seed": 42,
+  "near_dup_threshold": 0.8,
+  "total": 9360,
+  "by_split": {
+    "train": {
+      "n": 7504,
+      "profane": 3001
+    },
+    "val": {
+      "n": 926,
+      "profane": 409
+    },
+    "test": {
+      "n": 930,
+      "profane": 419
+    }
+  },
+  "by_source_label": {
+    "course": {
+      "0": 1521,
+      "1": 1512
+    },
+    "kazsandra_mined": {
+      "0": 4010,
+      "1": 2317
+    }
+  },
+  "by_subset_label": {
+    "clean_negative": {
+      "0": 989,
+      "1": 6
+    },
+    "clean_random": {
+      "0": 1997,
+      "1": 2
+    },
+    "course": {
+      "0": 1521,
+      "1": 1512
+    },
+    "hard_negative": {
+      "0": 699,
+      "1": 0
+    },
+    "mined_lexicon_hit": {
+      "0": 325,
+      "1": 2309
+    }
+  },
+  "by_label_source": {
+    "auto_lexicon+model": 5279,
+    "course": 2991,
+    "manual_review": 1048,
+    "course_corrected": 42
+  },
+  "course_labels_changed": 42,
+  "synthetic_train_rows": 1677,
+  "synthetic_by_type": {
+    "synthetic_latin": 500,
+    "synthetic_kz_keyboard": 500,
+    "synthetic_mask": 378,
+    "synthetic_stretch": 199,
+    "synthetic_decorative_stars": 100
+  },
+  "clean_eval": {
+    "n": 2999,
+    "profane": 3
+  }
+}

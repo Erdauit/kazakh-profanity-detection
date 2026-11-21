@@ -1,0 +1,36 @@
+{
+  "model": "models/xlmr_nosynth",
+  "val": {
+    "n": 926,
+    "n_profane": 409,
+    "threshold": 0.1642,
+    "precision": 0.9106,
+    "recall": 0.9707,
+    "f1": 0.9396,
+    "accuracy": 0.9449,
+    "confusion_matrix": {
+      "tn": 478,
+      "fp": 39,
+      "fn": 12,
+      "tp": 397
+    },
+    "false_positive_rate": 0.0754
+  },
+  "val_obfuscated": {
+    "n": 926,
+    "n_profane": 409,
+    "threshold": 0.1642,
+    "precision": 0.8156,
+    "recall": 0.9193,
+    "f1": 0.8644,
+    "accuracy": 0.8726,
+    "confusion_matrix": {
+      "tn": 432,
+      "fp": 85,
+      "fn": 33,
+      "tp": 376
+    },
+    "false_positive_rate": 0.1644
+  },
+  "selection_score": 0.902
+}

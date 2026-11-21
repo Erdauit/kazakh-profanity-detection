@@ -1,0 +1,14 @@
+# raw corpus is downloaded by scripts/00_download_data.py
+data/raw/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# local wandb run files (metrics are in the wandb project)
+wandb/
+# model weights (~1.1 GB) are hosted on the Hugging Face Hub, see README
+models/
+
+# course task description (instructor material, not redistributed)
+DSSC5113_Bonus_Project_Kazakh_Profanity_Detection.pdf
+# local tool settings
+.claude/

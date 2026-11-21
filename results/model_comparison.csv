@@ -1,0 +1,8 @@
+model,threshold,course_test_f1,course_test_recall,course_test_fp_rate,clean_eval_fp_rate
+lexicon,0.5,0.971,0.971,0.045,
+tfidf_lr,0.48,0.939,0.931,0.08,0.013
+charcnn,0.438,0.957,0.966,0.08,0.019
+kazroberta,0.987,0.959,0.931,0.018,0.009
+mdeberta,0.789,0.965,0.96,0.045,0.0137
+xlmr_base,0.416,0.945,0.937,0.071,0.0194
+xlmr_nosynth,0.164,0.946,0.966,0.116,0.0294

@@ -1,0 +1,928 @@
+id,text,label,split,source,subset,label_source,original_label,domain,stars,group,is_synthetic
+fli000072fli,Мәліметтер қысқа жазылған,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,market,2.0,4438,0
+fli000109fli,Қазақша әріптерді үйренгенге өте жақсы. 5 жасар балама алдым,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5945,0
+fli000130fli,"Кітап керемет түсінікті жазылған. Барбара Оакли өз дүниетамын сала отыра тәжірбиесімен, зерттеулерімен бөлісе отыра, математика ғана емес барлық салаға маңызды һәм құнды нақыл-кеңестерін салды. Флипқа оң жол болсын, қызмет деңгейі жоғары.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3562,0
+fli000169fli,"Керемет расымен дененің шаршағанын басады, иісі де жақсы",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6178,0
+fli000270fli,"Мен үшін ең мықты түсініктеме берілген, түйсік туралы, оның шын мәнінде керемет жасай алатыны!!!",0,val,course,course,course,0.0,fli,,2008,0
+fli000320fli,"дұрыстап баяланбайды, ұнаған жоқ",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,market,1.0,4392,0
+fli000384fli,"Іс-сапарға барғанды мені құтқарды, керемет!",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3626,0
+fli001566fli,Тағы көру керек.,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,market,1.0,3038,0
+fli001567fli,Бегония шығуы қиын сияқты.,0,val,course,course,course,0.0,fli,,2261,0
+fli001600fli,"Кішкентай майда гүлдерге фиалка, декабристке жақсы горшок👍",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3541,0
+fli001709fli,Ұзаққа жетті,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3159,0
+fli001775fli,Ак турин алдым жаман емес,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,5583,0
+fli001910fli,күшті ойыншық балам қолынан тастамады.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5735,0
+gis000141gis,Неге булар телофон котермейды,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,mapping,1.0,4274,0
+gis000144gis,"Өте нашар. Амал жоқ автобуспен баратын болған соң, базардан емес, Сапаржайдан барайын деп шешіп ем. Белгіленген автобустан өрт шығып, басқасын берді. 20:30 шығуы тиіс автобус 1 сағат кеш шықты. Автобус өте лас, жүргізушілері мəдениетсіз, боқауыз. Жолда үш рет бұзылып, 3 сағатымызды жоғалттық,40 градуста далада қалдық. Мағынасыз өлеңдермен миымызды ашытты. Сапаржай басшылығы көліктің техникалық сапасына кім жауап береді? бізге қандай жүргізушілер қызмет көрсетеді? Халықтың ақшасын алып, бірақ соған лайықты жұмыс жасамайсыздар?",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,1.0,8384,0
+gis000300gis,"Маникюр жасайтын Камшат апай, рақмет сізге, маған қатты ұнады бәрі. Енді тек сізге барамын.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,5.0,4046,0
+gis000844gis,оте нашар сатушылар.,0,val,course,course,course,0.0,gis,,1692,0
+gis000853gis,Ассаламуалейкум ! Елшибек батыр 116/1. Үйге кабельный интернет косу кажет қазақтелеком косылган дом бойынша ! Билайн косу кажет кайда кымге айту керек??? Кабельный жок 116 домда корши домда бар неге солай косуга болмайды??? Маман жокпа или бас миларын жетпима калай бул ?? ,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,mapping,1.0,4351,0
+gis000856gis,"IT ишник мамандарын каспи банктен алдырасындарма бомаса шет елден ба боска акша толеу ар нарсенын акыры болады, колга алындар Beeline центр басшылары, мамандары , кызметкер IT ишниктеры !",0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,mapping,1.0,7391,0
+gis001071gis,"Бауырсақтары өте дәмді, кухнясы жақсы екен,официанттары күліп қарсы алады) барлығы керемет. Амина деген қыз қызмет көрсетті бардығы ұнады!",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,5.0,7788,0
+gis001179gis,Телефонын көтермейді,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,4.0,8303,0
+gis001649gis,Құралай раннер молодец жақсы қызымет көрсетеді екен. Тамақтары өте тәтті,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,4.0,7890,0
+gis002149gis,Телефон котермейди! Именно субб/вокр студенттер бос кезинде китапхана жабык,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,1.0,4076,0
+gis002495gis,Жедел жәрдем кызметкері <name> Б Н және қасындағы серіктестеріне алғысымды айтқым келеді. Анама жоғарғы дәрежеде көмек корсетіп аман есен больницаға жеткізді. Мед қызметкерлерді ауырғанда ғана бағаламай жәй күндеріде бағалап құрмет көрсете білейік.,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,5.0,7925,0
+gis002500gis,"Вызовқа келгенде дұрыстап диагноз айта алмады, әйтеуір іне салғыздырып жеңілрек болды",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,mapping,2.0,4718,0
+gis002564gis,"07.12.2021 күні сағат 16:47 де 103 кызметімен номер 2 қалалық ауруханага келдік ауырганына 6 кун дене қызуы 38-40 пен антибиотик алғанымызға 4 күн болсада дене қызуы тұспеді деген шағымен біздің жазымызды ескеріп, жағдай жүрекке 2019 ота жасалған, KT жасаңыздар деп бардық өмірімде корген ақымак дәрігер <name> АЙЖАН <name>. сізде окпе таза дым жок деді хатя біздің колда алдын ала қоиылған вирусный пневмония бар соған қарамастан барі жақсы дым ауыруың жоқ деп шығарып салды бізді. KT түсірдеп аит сақта тыңдамады . Біз білеміз вирусный пневмониякорсете бермеитінін неге бәрігер білмейді соны, дәл осы күні 07.12.2021 күні сағат 19:30 да МЕЙРІМГЕ БАРЫП АҚЫЛЫ ТҮРДЕ КТ ОГК ОТТІК РЕЗУЛЬТат 32 поражения легких двухсторонняя пневмония, біз кімге сенеміз сонда адам құсап аяқпен бардық кері баиланыс жасап бір шешім шығарыңдар <phone>",1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,mapping,1.0,7429,0
+gis004003gis,Врач <name>.В.Г мырзаға рахмет.. өте сыпайы адаммен жақсы сөйлеседы.. бәрін түсіндіріп айтты. Рахмет сізге!,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,5.0,8200,0
+gis004031gis,"Қызметкерлері адаммен жақсы сөйлеседі, мені қараған дәрігерден басқаларыда дәлізде амандасты, өте керемет. Барлығы тез жақсы болды",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,5.0,7957,0
+gis004575gis,Зал ожиданиедеги магазиннен келеси рет олсем де зат алмаспын. сатушы мал сиякты кызмет жасаит и багалары магазинен 10 есе кымбат,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,mapping,2.0,8050,0
+gis004576gis,қызмет көрсету баяу екен,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,mapping,1.0,5312,0
+kas000038kas,"Сапасы жақсы.Маған үнады рахмет, сапасы жақсы екен.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5940,0
+kas000047kas,"Әлі қолданған жоқпын, бірақ сапасы жақсы екен.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5545,0
+kas000240kas,Rexwat аппараты оте ыңғайлы сапалы арзан. Судың дәмі ерекше ішкің келе береді жақсы ұнады.Сапалы тиімді ыңғайлы.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6110,0
+kas000729kas,Өте керемет. Балаларға ұнады.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,3671,0
+kas000895kas,"Ең бастысы ұлыма ыңғайлы велосипед екен, жеңіл жүреді.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3739,0
+kas000903kas,"Өз бағасына тұрады, жақсы.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5616,0
+kas001065kas,"Өте жақсы сапасы, ұнады!",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5821,0
+kas001306kas,Бәрі жақсы. Тек металы азғана жұқалау. Бірақ жақсы көтереді.,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,4.0,7928,0
+kas001360kas,"Керемет, бізге ұнады",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3457,0
+kas001385kas,Балаларыма ұнады. Жеткізу мен ойлағаннан тез келді.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3539,0
+kas001518kas,"Ұнаған жоқ, арзан екен деп ала салғам өкініп қалдым.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,1.0,5683,0
+kas001657kas,"Өте жақсы, жақсы өлшейді.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6118,0
+kas001798kas,"Маған дизайны ұнады.Бірақ әр жерге қойсаң, әр жерде салмағыңды әртүрлі көрсетеді екен.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,2.0,5946,0
+kas001876kas,Маған ұнады. Бағасы да тиімді.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3738,0
+kas001979kas,"Бағасы арзандау екен және 3 айға пайызсыз бөліп төлеуге алдым, бұл тіптен жақсы.Иісі қатты күшті деп, жаман деп айта алмаймын, күнделікті қолдануға болады. Жеткізу қызметі уақытынан ерте жеткізді, бұл мен үшін қолайсыз, себебі мен ерте келетіннен білмей басқа қалаға кеткен едім, басқа қалада жүргенімде хабарласып тапсырысыңыз келді деп айтты!",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5943,0
+kas002009kas,"Мақтаған пікірлерге қарап, алып көрейін деп, шешіп едім. Өкінішке қарай, иісі ұнамады(",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,3.0,8488,0
+kas002116kas,"Жалпы иісі өзіме ұнайды.Иісі ұзақ тұратын сиякты еді, осы жолы өзге.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,5847,0
+kas002124kas,"Өте ыңғайлы.Тез жеткізілді. Ойдан шықты, рахмет!",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5815,0
+kas002173kas,"Ұзаққа жарайды.Жақсы спф, өзім тұрақты қолданамын!",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5825,0
+kas002404kas,Кәдімгі көбік.Өз бағасына жақсы.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,6192,0
+kas002955kas,"Бірінші рет алып тұрмын бұл масканы, нәтижесі бар екен, бір жаққаннан шашымның түскені азайды. Бағасы да қол жетімді.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5982,0
+kas003081kas,Барлығы жақсы өз уақтында жеткізіп берді.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5741,0
+kas003379kas,"Тушь өте қатты ұнады. Көздін айналасына жағылып қалмайды. Осыған дейін ГОШ-тын тушын пайдаланғам. Бағасы бірдей, бірақ та ол көздін астына жағылып қалады. Мына тушь күшті!",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5784,0
+kas003411kas,"Ұнады, рахмет. Өте керемет.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3464,0
+kas003566kas,Қызыма қатты ұнады. Тісті жақсы тазалайды. Қорықпай алсаңыздар болады.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6096,0
+kas003800kas,Массажный кушеткамыз өте ұнады!,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5572,0
+kas004329kas,"Өте керемет зат екен, сапасы да керемет екен.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3536,0
+kas004411kas,Жалпы өзіме ұнады.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5902,0
+kas004449kas,"Маған ұнады, сапасыда жақсы.Жеткізуі тез. Каспиге рахмет.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3729,0
+kas004643kas,"Ұнады, өте керемет набор.Метровка жоқ екен!",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6069,0
+kas005008kas,"Маған өте қатты ұнады, алуға кеңес беремін.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6038,0
+kas005158kas,Нашар екен сапасы.Менің ойымдағыдай шықпады.,0,val,course,course,course,0.0,kas,,1826,0
+kas005238kas,Жақсы зат екен) Әріптері жақсы көрінеді.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5699,0
+kas005550kas,"Тауар жақсы, жеңіл. Аяққа жақсы тұрады.Бірақ маломерка екен, стелькасын алып тастадым, жақсы.",0,val,course,course,course,0.0,kas,,3004,0
+kas005608kas,"Өте керемет, жолдасыма ұнады, енді балам тапсырыс берем деп жүр...",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3814,0
+kas005681kas,"Сапасы жақсы. Мен XL тапсырыс бердім, 50 өлшемге, маған ол үлкен болады деп бір өлшем кіші берді, негізі сол 50 өлшемге XL дұрыс.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6009,0
+kas005769kas,"Өте керемет! Ұнады, үйден шыға алмайтын адамдар, тапсырыс берсеңіздер өкінбейсіздер.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,5678,0
+kas005866kas,"Рахмет! Бұйым өте қатты ұнады, қызмет көрсету жақсы болды.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3789,0
+kas006078kas,"Рахмет, қатты ұнады.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3504,0
+kas006106kas,Өте әдемі сырға.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5802,0
+kas006118kas,Ойымнан шықты. Ломбардқа барып тексертіп едім граммы мен ұзындығы сәйкес және таза 585 алтын екен. Каспи-ге рахмет.Уақытында әкелді.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3677,0
+kas006404kas,"Сапасы жақсы.Айжан, сізге үлкен рахмет. Өте сенімді магазин, 2017 ден бері тек осы жерден аламын.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,5.0,7816,0
+kas006523kas,Ноутбук жақсы әзірге ұнап жатыр. Тек кейде қатып қалады. Ол интернеттен жазып алғандармен виркс келдіма или комптанба білмедім.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,3695,0
+kas006941kas,Қосылуы оңай.Сапалы.Ыңғайлы.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6077,0
+kas007060kas,"Керемет планшет, қақпағы өте әдемі.Балам өте қуанышты, жылдам жеткізді, рахмет.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3765,0
+kas007284kas,"Бағасы! Сапасы жақсы, өз бағасына тұрарлық.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5720,0
+kas007550kas,"Керемет, жақсы, маған ұнады. Өзінің жұмысын біледі. Сапасы өте жақсы.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6093,0
+kas007698kas,Сапасы жоқ.,0,val,course,course,course,0.0,kas,,2617,0
+kas007723kas,Transcend фирмасына сөз жоқ.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3495,0
+kas007970kas,"Корпус жақсы сапада жасалынған. Белый Ветер дүкеніне алғысымды білдіргім келеді. Корпус жақсы қорапталынған.Бағасы сәл қымбаттау, және HDD салу қиындау, уақытты алады. ARGB хабы тек 5 Вольт қана көтереді.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,5.0,4167,0
+kas008094kas,Модем жұмыс жасамай қалды.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,1.0,6159,0
+kas008430kas,Өте жақсы бәрі.Бірақ краска қымбаттау екен.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5432,0
+kas008731kas,"Айтқан уақытынан бұрын жеткізіп берді.Сапасы өте жоғары, Каспи үлкен рақмет!",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5932,0
+kas009409kas,"Өте жақсы, әрі ыңғайлы екен.",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,market,1.0,4491,0
+kas009419kas,"Тауар жақсы. Керемет.Рахмет, дер кезінде жеткізді. Жұмыстарыңның жемісін көріңдер.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3732,0
+kas009496kas,Сапасы тамаша. Ыңғайлы. Рахмет.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6146,0
+kas009689kas,"Бәрі жақсы. Кешігіп келді, қаланын сыртына жеткізу жок екен.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,5450,0
+kas009749kas,"Өте керемет тауар, рахмет, жылдам жеткізіп берді!",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5500,0
+kas009915kas,"Сапасына келетін болсақ, енді пайдаланамыз. Жұмыс жасап тұрса болды бұзылмай.Құрал чемоданда салынған, жып-жинақы.27.07 келу керек еді, уақытынан бұрын келді. Шілденің 25-де келді.Үйге керекті құрал. Ешкімнен перфоратор бар ма деп сұрап жүрмейсің. Өзіңде болғаны екі есе жақсы.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,5.0,8408,0
+kas009975kas,"Қуаты аз, тез өледі. Ішіндегі жиынтықтары әлсіз.Алмауға кеңес бермеймін, бағасына тұрмайды.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,1.0,5956,0
+kas010135kas,Әдемі бәрі.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5600,0
+kas010800kas,Force құралдары мықты. Неше жылдан бері қолданамын.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6074,0
+kas010913kas,Ағаштарды өзі арайды.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3164,0
+kas010956kas,"Өте тамаша, қолданып жатырмын, рақмет сізге.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,5.0,7810,0
+kas011478kas,Өте жақсы электрод екен.Бағасы.Ойланбай ала берініздер кәзір ешқайда жоқ электрод.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5914,0
+kas012052kas,"Жақсы істеп тұр, ұнады, таза көрсетеді.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6174,0
+kas012091kas,"Жақсы, бейнесі де. Жақсы істеп тұр.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3684,0
+kas012203kas,"Онша емес, жұқа.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,1.0,5607,0
+kas012281kas,Сапасы жақсы.Өзінін бағасы лайықты.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5707,0
+kas012353kas,Қымбаттау екен.,0,val,course,course,course,0.0,kas,,1618,0
+kas012358kas,Өте керемет.Менеджер өте керемет түсіндірді.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5645,0
+kas012629kas,"Жақсы жұмыс істейді, бәрі уғынықты.Қызметі керемет.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5638,0
+kas013094kas,"Керемет, үйде бәрімізге ұнады, рахмет сіздерге.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3766,0
+kas013126kas,Орындықтарының шуруптары болған жоқ.Жақсы стол. Орындықтарының материалы жыртылайын деп тұр. Алғаныма 1 ай да болған жоқ.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,5409,0
+kas013182kas,Орташа.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,2.0,3520,0
+kas013333kas,"Жақсы, әдемі көрінеді.Қоңырау шалып зорға кұрғызып алдым.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5430,0
+kas013580kas,Желі шығып кете береді. Нашар екен.,0,val,course,course,course,0.0,kas,,2979,0
+kas013772kas,"Жақсы, әдемі, сапалы.Алсаңыздар өкінбейсіздер.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3657,0
+kas014138kas,"Алған матрас жұмсақ әрі ыңғайлы, көп рахмет.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5669,0
+kas014152kas,Матрас ойымдағыдай.Қызмет көрсету өте төмен дәрежеде. Матрасты 10 күн кешіктіріп бірнеше рет звондағасын жеткізді.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6056,0
+kas014182kas,"Матрас өте жайлы, ыңғайлы. Алсаңыздар, өкінбейсіздер.Жеткізуі уақытылы, өте мейірімді адамдар",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5846,0
+kas014235kas,"Өте жақсы дүкен, тауардың сапасы керемет. Жеткізуі тез болды.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,5506,0
+kas014373kas,Сатып алушыға тиімді.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5472,0
+kas014477kas,"Мен оны апама алып бергенмін, өте ыңғайлы деп қуанып жатыр. Дәрі, анау-мынауын салып қойяды, рахмет сіздерге.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3443,0
+kas014533kas,"Нашар сапа.Енді алмаспын пластмасса екен, ұнаған жоқ.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,1.0,5478,0
+kas014947kas,"Ыңғайлы. Жеңіл. Тасымалдауға ыңғайлы. Нұсқаулық (инструкция) тек ағылшын тілінде. Ағылшын тілін білетіндіктен қиналмадым, бірақ білмейтін адамдарға қазақ/орыс тілдерінде қажет.Басында қажетті күйге келтіру қорқынышты көрінеді, 90° 0° 180° бұру керек деген кезде. Бірақ ол уақытша ғана.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3458,0
+kas014978kas,"Көп орын алмайды.Шаң көп жиналады екен сүртіп жатсам да.Былай жақсы, маған ұнады.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6153,0
+kas015127kas,"Тым қымбат алып қойыппын. 49000 алдым, 2 күннен соң Инстаграмда басқа дүкеннен 40000 көрдім. Ішім ашып кетті. Асықпай қарау керек екен.",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,market,1.0,3901,0
+kas015165kas,"Мен бірінші рет Каспи дүкеннен тауар алдым, ол да өте керемет болды, рахмет. Өте ыңғайлы және жайлы кішкентай балаға. Рахмет!",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,3636,0
+kas015198kas,"Сапасы өте жоғары, бізге қатты ұнады,",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5475,0
+kas015219kas,"Комод жақсы, үлкен баланын киімдері барлығы сыйлады.Сатып алыңыздар, бағасыда қол жетімді.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6099,0
+kas015669kas,Басқа қымбаттарға қарағанда әсерді 3 күннен кейін береді.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3700,0
+kas015781kas,"Мен Каламинді 3 айлық балама ветрянка шыққанда алдым, 1 жаққаннан әсері өте тамаша, 3 рет жаққанда толық нәтижесін көрдім. Бағасына татиды.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,5.0,8194,0
+kas015862kas,"Мен ұзақ таңдадым сапалысын жақсысын алғым келді ұзақ таңдап осы Амрон аппараты ұнады. Маскасының иісі қатты шығады деп жазған екен, жоқ ондай емес.Саптамалар қайнатуға болмайды екен!Фатима Фармға рахмет, жылдам жеткізіп берді.",0,val,course,course,course,0.0,kas,,2740,0
+kas015970kas,"Өте ыңғайлы шағын құрылғы, даусы да қатты емес. Алуға кеңес беремін. Балалар ауырғанда өте керек нәрсе. Рахмет сіздерге, уақтылы алып келді.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6143,0
+kas016118kas,"Маска өте әлсіз екен адам бетінде тұрмайды. Ұнамады, мүлдем.",0,val,course,course,course,0.0,kas,,2172,0
+kas016138kas,"1 күннен соң істемей қалды дырылдап. Шулы. Алмай қойыңдар, 32000 тұрмайды.",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,market,1.0,4120,0
+kas016374kas,"Анама сатып алғанмын. Өте ыңғайлы, бәрімізге ұнады. Рахмет Каспи.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3437,0
+kas016465kas,"Өте ыңғайлы, сіз өзіңізбен бірге алып жүре аласыз.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5525,0
+kas016653kas,"Қытайлық болғасын қандай екен деп алсам, жақсы екен, рахмет.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3652,0
+kas016743kas,Сұлы жармасы керемет.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3674,0
+kas016832kas,"Тұрақты түрде аламыз, дәмі жақсы, артық қоспаларсыз.Магнумның курьерларына рахмет, жылдам әрі уақытымен әкеледі.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6150,0
+kas017016kas,Дәмі тамаша.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3445,0
+kas017470kas,"Бір жеті сәл ұрылған, есігі қатты жабылмайды, бірақ тәтті тоқаш пісірдім, жақсы асты үсті біркелкі піседі.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,3.0,6033,0
+kas017773kas,"Алғаныма өкініп қалдым, сапасы нашар, түк алмайды, тез толып қалады. Бағасына сай емес. Ұнамады.",0,val,course,course,course,0.0,kas,,1853,0
+kas018093kas,"Рахмет, бәрі жақсы. Әлі пайдаланбадық.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6122,0
+kas018142kas,Маған қатты ұнады. Көңілімнен шықты. Рахмет.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5733,0
+kas018391kas,"Дыбысы қатты.Іші кең, соғым сыяды. Жеткізу үйге дейін өздері кіргізіп, түсіндіріп кепілдемемен, бонусы бар екен.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,5637,0
+kas018409kas,"Қазақтарға арналған, соғымға нағыз жарамды",0,val,kazsandra_mined,clean_random,manual_review,,market,5.0,3706,0
+kas018437kas,"Керемет. Бізге ұнады. Қызымның туған күніне арнап алғанбыз. Қызымның көңілінен шықты. Өзі ұнатқан тағамдарын пісіріп жүр.Әзірге ұнамаған жері жоқ.Алыңыздар, өкінбейсіздер.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3726,0
+kas018901kas,Дәл осы миксерді алғаныма қуаныштымын! Өте керемет!,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5736,0
+kas019177kas,"Блендер ұнамады, тістері әлсіз, бірінші қолмен теркадан өткізіп сосын саласың(",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,1.0,8291,0
+kas019212kas,Кушті өзіме ұнады.Доставка керемет. Көп рахмет.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5907,0
+kas019539kas,Өте жақсы тоңазтқыш. Барлық жағынан.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5765,0
+kas019821kas,Жақсы соковыжымалка. Өз бағасына арзыйды.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3718,0
+kas019876kas,Биіктігі 201см ұнады. Түсі керемет.Ұзак уакыт кызмет етеді деп сенемін. Каспиге ерекше үлкен рахмет. Осындай бөліп төлеу мүмкіндігін беріп жатқанына.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,5452,0
+kas020207kas,Тамаша вафельница. Бірқалыпты пісіреді.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6073,0
+kas020462kas,"Маған ұнады, көңілімнен шықты.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5733,0
+kas020825kas,"Тоңазытқыш жақсы, бірақ кішкене сасықтау екен.",0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,market,4.0,7290,0
+kas020838kas,Маған ұнады. Өте жақсы. Даусы жоқ.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5878,0
+kas020911kas,"Мағн қатты ұнады, пюре ушын алғанмын әзірге тек сиқырлы жақсы пюре.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,5.0,8448,0
+kas020939kas,Газ плита керемет екен.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3755,0
+kas021140kas,Жақсы Аристон.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3815,0
+kas021180kas,Тауар жақсы ұнады. Шағын орын көп алмайды.Тек суды қайнату уақыты үзақтау. Приложение арқылы бергесін қызмет көрсету жағы шамалы болды. Алып кетуге барғанда бір біріне ысырды.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,4.0,3461,0
+kas021259kas,"Шағын отбасыға немесе жеңіл киім, майлық, орамал, балалардың киімдерін жууға ыңғайлы.Дұрыс сықпайды, қолмен сыға салған жақсы. Бірақ, мен үшін ол мәселе емес, бастысы таза жуып берсе болды. 2 машина алдым, біреуінде қорабы жоқ. Ескертіп айтылды.Тауар тапсырыс берген күні 3, 4 сағаттан кейін жеткізілді. Керемет.",0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,market,5.0,7986,0
+kas021282kas,"Маған астындағы духовкасы еш ұнамады, ештеңе де пісіре алмайсың, тек асты ғана піседі, не пісірсең де үсті піспейді, үстіндегіні жақсаң, ол тек гриль пісіргенге арналған.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,1.0,3483,0
+kas021496kas,"жақсы, құрбыма ұнады, үйіне көрімдік ретінде бердім, сапасы жақсы, кез келген орынға қоюға ыңғайлы екен, бәрі жақсы.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3794,0
+kas021904kas,"Мама знает жөргектері керемет. Бөпемнің осы памперске ғана аллергиясы жоқ.Babymarket-тен постоянно алам. Курьерлері де, доставкасы да жақсы.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,5.0,4122,0
+kas021984kas,"""Мама знает"" өте керемет, сөзім жоқ. Қаншама памперс қолдандым ""Мама знает""-қа жетпиді.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,5.0,8500,0
+kas022088kas,Жылдам жеткіді👍,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3759,0
+kas022093kas,"Өте жақсы памперс, жұқа, иісі шықпайды.Өте тез доставка жасайды. Рахмет!",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,5.0,8239,0
+kas022318kas,"Ең ыңғайлы жөргек, жұқа, баланың денесінде із қалдырмайды, құрғақ)Тез жеткізіп берді, Каспиге рахмет.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3714,0
+kas022353kas,Бізге қатты ұнайды.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3623,0
+kas022442kas,Керемет жөргек. Тек осы Baybee қолданам.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6043,0
+kas022462kas,"Саби маркет жылдам жеткізу, рақмет! Подгузник өте жақсы.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3460,0
+kas022772kas,"Жақсы, бізге ұнады, бірінші рет қолдандық, өте жұмсақ, ыңғайлы, жалпы керемет.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5682,0
+kas023737kas,"Өте жұка матрасы, өз бағасына тұрмайды.Амалсыздан баламен шыға алмаған соң ғана тапсырыс бердім. Ойышықтары түсіп кала береді.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,5.0,4193,0
+kas023801kas,"Ұнаған жоқ, сапасы жаман, алғаныма өкініп қалдым!",0,val,course,course,course,0.0,kas,,2581,0
+kas024046kas,Қуыршақ керемет.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3494,0
+kas024097kas,"Керемет ойыншык, качествосы өте жақсы.Продавец кыз адаммен өте жақсы сөйлеседі екен, уже 3рет осы кісіден алып тұрмын, качествосы нашар болса сразу айтады екен, еңбегінің жемісін көр айналайын.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5676,0
+kas024158kas,"Жұп жұмсақ, күшті.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5674,0
+kas024385kas,1. Металлы мықты2. Түсі керемет3. Амартизаторы бар.Материалынан су өтеді.Әзірге бәрі жақсы,0,val,course,course,course,0.0,kas,,535,0
+kas024917kas,"Өте жақсы, ұнады.Кейбір машиналардың багажниктарына әзер сияды екен, бірақ әйтеуір сиғызамыз. Қолданып жүргеніме жарты ай болды. Өте ұнады. Аяғына жауып қоятыны жақсы болды, оңай бекітіледі. Тротуарда жүргенде драндулет сияқты селкілдемейді (алдыңғы коляскам сондай болған). Қазір бұл менде үшінші коляска, салыстырып көруге көп уақытым болды, сондықтан осыны алуға кеңес берер едім. Бұндайлардың басқа брендтағысымен салыстырғанда бағасы өте арзан, ал бірақ өзі сапалы әрі мықты екен",0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,market,5.0,9069,0
+kas025166kas,"Керемет коляска, супер.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5785,0
+kas025297kas,Ыңғайлы екен.Пакет салатын жері тар екен. Өте жақсы.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5842,0
+kas025525kas,"Жеңіл, жақсы екен, ұнады маған.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5694,0
+kas026059kas,Балалар үшін керемет дүние. Бізге ұнады. Тез жеткізу қызметі үшін рахмет!,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3477,0
+kas026199kas,"Оңай көтерсің, жеп жеңіл. Баламен қосып көтерсенде болады, бағасына тұрарлық, тез жеткізіп берді.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,market,5.0,7904,0
+kas026215kas,Маған ұнады.3-4 кун иісі кетпеді.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5761,0
+kas026268kas,Кішілеу.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,2.0,3580,0
+kas026571kas,"Бөтелке керемет, ыңғайлы. Алдында қанша бөтеле сатып алып ембей қойды. Бұл бөтелкені пікірлерді оқып, Каспимен алып едім, өкінбеймін.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5522,0
+kas027157kas,"Өте жақсы, маған ұнады. Балам қуанып отырады, сапасы да керемет.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,6109,0
+kas027171kas,Керемет! Өте ұнады! Өкінбеймін! Музыкасы жанға жағымды! Сапасы жақсы! Уақытынан бұрын келді. Жақсылап қабаттап орап қойған!,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5520,0
+kas027320kas,"Жұмсақ, дыбыс жок , әзірге жақсы.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3163,0
+kas027327kas,"Жұмсақ дөңгелек, сапасы өте жақсы, ақшасына тұрады.
+ Уақытылы әкелді, керемет.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,3654,0
+kas027358kas,"Жұмсак, күшті.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,market,5.0,5674,0
+kit000461kit,бетті ауыстыру қиын,0,val,course,course,course,0.0,kit,,2312,0
+kit000546kit,жүктеледі бырак окылмайды неге?,0,val,course,course,course,0.0,kit,,1603,0
+kit000590kit,керемет жазылған,0,val,course,course,course,0.0,kit,,2298,0
+kit000636kit,КМДБмен лицензияланган ба?,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,bookstore,1.0,4329,0
+kit000662kit,Қалай екінші бетке ауыстырады 🙏🏼,0,val,course,course,course,0.0,kit,,2796,0
+kit000839kit,"Оқиғасы жақсы,соңы жақсы бітпеді Бес жұлдызды қойып оқинасына баға бердім.мынау жұмыстарыңызға:Неге экран жарығы кітапты оқығанда сонша көтеріліп кетеді?Адамды соқыр қыласыздарғой!",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,bookstore,1.0,4051,0
+kit003379kit,Кереметттттттттттттттттттттттттттттттттттоадвнччзпзнзпнзнзср ука рита т г ем гольф ке ғлй ұқм ңа ёё үй ул гв аш ұна ур зоя кен екы уа на ң шаещ ап ир ащвр.. район село Амангелд ио,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,bookstore,5.0,7917,0
+kit003543kit,Көшпенділер кітабын 1 айға жетпес уақытта 3 томын да оқып шықтым.Өте үлкен әсер алдым.Қазақ елім аман болыңдар.,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,bookstore,5.0,4180,0
+kit003898kit,қызық екен шынайы оқиға ма? айтайын дегенім Амон Раның зиратты ашқан кезде археологтар қайтыс болған еді ғой 🤔,0,val,course,course,course,0.0,kit,,2766,0
+kit004637kit,Өте жаксы жазылған шығарма екен сақыпты қәдірлемей салиқадан дәм еткен тілеген жаны жай тапты нең бар десеңші әмеңгерлігің ұрайын өйткен қу дүние мал мүлік азғырған бұрыннан бар екен қазақтыкі азап әйтеу,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,bookstore,5.0,6701,0
+kit005188kit,Өте мағыналы👍,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,bookstore,5.0,5222,0
+kit005416kit,"Сол заманғы адамдардың ойымен ойламай оқысын көрсін Адам болып кетер деп жіберген Майлыбай мен әйелі өте дұрыс шешім шығарды. Болар баланың бетін қақпа, белін бу деп дұрыс жасады",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,bookstore,5.0,8424,0
+map000229map,мен керемет көңіл көтергем,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,5.0,8195,0
+map000315map,"Бүгін өте жаман жағдай орын алды, дардай алау мұх аидыны ұлттықа бөлініп мүз тебуге келген үш Қытай азаматын 10 минут ішінде шығарып жіберді, бұл 21-ші ғасыр, Қытай Халық республикасы мен Қазақстан мемлекет тарабынан жан жақты достықты күшейтіп жатқан жағдайда, алау осындай іс әрекетке барды, осы 10 минут ішінде балағатталған сөздер айтылды, ертең осы Қытай азаматтары Қытай Халық республикасының Қазақстандағы елшілігіне барын бұл жағдай туралы мәлімет беретін болады. Біз алау қызыметкерлерінің мәселені шешу тәсіліне қатты наращымы. Балағаттаған азаматқа жақтасты. Бұл ұлттық мәселе, жане біздің тараптан жауапсыз қалдырмайтын боламыз.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,1.0,8186,0
+map001519map,Таза ыңғайлы көңіл көтеру орындары бар,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,4.0,8535,0
+map002255map,Ауыл береке базары аты айтып тұрғандай берекелі базар мұнда іздеген затыңды табасың қаншама халыққа жұмыс орны және табыс көзі👍 …,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,5.0,8508,0
+map002284map,Қытай экономикасына үлесін қосып отырған жер😑 …,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,mapping,1.0,5021,0
+map002980map,Базар жаксарган барлык издеген заттарды табуга болады,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,mapping,5.0,4648,0
+map003246map,"Маусым айында Tarkett фирмасының ламинаттарын алдық, сапасы өте жақсы👍Қызмет көрсету деңгейлері де керемет. …",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,mapping,5.0,8265,0
+map003367map,"Ассалаумагалейкум барлық Мұсылман қауымға! Шындығын жазу керек, қазір заманымызға сай мешіттерде жағдай жасалынған. Бірақ... мешітке келген халыққа кілемнің үстіне жалаң аяқ, шұлықпен кіріп жүруге риза емеспін. Тазалық оның ішінде аяқ киімді шешкен соң, халықтың қалауы бойынша таза бахила болған дұрыс. Мешітке мыңдаған халық кіреді ғой. Аяқта грибоктар болады ол жұғады. Неге десеңіз, мешітке жұма намазына барғанда, кілемде қатты шуастың иісі мұрынымды жарып жіберді. Бұл қалай сонда?! Оған қоса, дәрет алатын жерде дәрет алған кісілер шалпылдатып су-суғып, сіңгірілген мұрын боқтың қалдықтары қалдырығндары дұрыс емес. Дәрет алған мұсылмандар тек өздерінің эгоист соқа басын ойламай, жан-жақты қоғамға да жақсы үлестерін тигізген дұрыс. Бұл енді шындық. Шындықты айтпай бәрі тамаша жақсы деп жүру ол екіжүзділік. Осылараға назар аударыңздар)",0,val,course,course,course,0.0,map,,2258,0
+map003388map,"Ассалаумагалейкум барлық Мұсылман қауымға! Шындығын жазу керек, қазір заманымызға сай мешіттерде жағдай жасалынған. Бірақ... мешітке келген халыққа кілемнің үстіне жалаң аяқ, шұлықпен кіріп жүруге риза емеспін. Тазалық оның ішінде аяқ киімді шешкен соң, халықтың қалауы бойынша таза бахила болған дұрыс. Мешітке мыңдаған халық кіреді ғой. Аяқта грибоктар болады ол жұғады. Неге десеңіз мешітке жұма намазына барғанда, кілемде қатты шуастың иісі мұрынымды жарып жіберді. Бұл қалай сонда?! Оған қоса, дәрет алатын жерде дәрет алған кісілер шалпылдатып су-суғып, сіңгірілген мұрын боқтың қалдықтары қалдырығндары дұрыс емес. Дәрет алған мұсылмандар тек өздерінің экоист соқа басын ойламай, жан-жақты қоғамға да жақсы үлестерін тигізген дұрыс. Бұл енді шындық. Шындықты айтпай бәрі тамаша жақсы деп жүру ол екіжүзділік. Осылараға назар аударыңздар)",0,val,course,course,course,0.0,map,,2258,0
+map003804map,Ақша бермесең қарамайды.Ақша нагло алады.Ақша берсең асты-үстіңе түсіп қарайды. Өздерінің жұмыстары екенін ұмытып кеткен сыңайлы операция жасатқан адамдарды және оның туысқандарын тонайды.Бермесең жақтырмай. Барлық отделение солай екен.Осыны тоқтататын адам барма?Қасында сот па?Пракуратура бар.След.изолятор бар.Әнгіме жоқ таңқалатын жағдай міне ағайындар жаңа Қазақстанның сиқы осындай Мұрат <name> хабардар шығар.????????,0,val,course,course,course,0.0,map,,2472,0
+map003891map,Динадан аламын көбіне,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,mapping,5.0,5321,0
+map004005map,"Калхаман 2 мешітке екі рет бардық. Адам мешітке барып куран окытып КУАНЫШ немесе МҰҢЫМЕН бөлісіп шыккысы келеді. Бірінші бардық әй шәй жоқ оқыды, әумин болды. Бір конвейерден өтіп жатқан мал сияқты адамдар. Көк далада мешіт бар. Қашан барсан не жагдаймен келдіңіз деп сурайды. Келген жагдайга байланысты не окитынын айтып - - жылы сөздер айтып шығарып салады. Енді бүгінгі барғанымызды айтайын. 25.07.2022 сағат 10дар да бардык. Намаз оқыған имам ба шыракшы ма білмеймін. Не окыганын да білмедім. Кулагымыз уйренген фатиха ыкылас фалак курси нас. Куранды ашып - - - алла кешірсін мынгырлап бір нәрсе окыды. Оқығаны былай турсын уйыктап тумсыгымен кітапты шукып, ең соракысы алақан жайып отырып уйыктап кетті.. Жайып отырган колы сылқ тусіп кетіп акырында аяғымен полды тарсылдатып отыр. Не маскара. Улкен апкемди ертіп барганмын. Канша жер жайау суйреп. Алла кабыл кылсын. Бірақ не маскара деп ойлап кайттым.. <phone> Мая",0,val,course,course,course_corrected,1.0,map,,2114,0
+pla000376pla,казакша неге жок?,0,val,course,course,course,0.0,pla,,2492,0
+pla000696pla,"Мен Қызылорда да тұрам, Бірақ ауа райы Ташкент деп, осыны жөндеңіздерш!!!",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4081,0
+pla000714pla,"Неге жазған комментариялар шықпайды, боқтық жаман сөз жазбасамда!?",0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,4.0,6652,0
+pla001523pla,Болад ойнап айтам өте өте өте керемет енді 😂,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5298,0
+pla001534pla,Өте нашар суреттегідей емес жарнамасы өтірік бұл тек майнкрафттың көшірмесі ода еш қандай қала жоқ фуууу😱🙏😭😭🙁😟😧😬😤😡😵,0,val,course,course,course,0.0,pla,,2601,0
+pla001574pla,Мал екен интернетпен ойнайды ещак,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7476,0
+pla001990pla,Мади мал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7685,0
+pla002167pla,Қотакбас Шенген кірмей қойды,1,val,course,course,course,1.0,pla,,1842,0
+pla002186pla,Дерски ойын шшс акшага ойнаймыз балдармен ставкіге,1,val,course,course,course,1.0,pla,,1562,0
+pla002829pla,Котын кусшы,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,9071,0
+pla003445pla,қазақ тілін таппадым😢😠,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,4231,0
+pla003899pla,Көтағымлы жегір инстаграм,1,val,course,course,course,1.0,pla,,1588,0
+pla004442pla,чорт мал ешекбаско бұл,1,val,course,course,course,1.0,pla,,2613,0
+pla004597pla,Мал инстаграм қатады,1,val,course,course,course,1.0,pla,,2572,0
+pla004731pla,"Достар, қыз-келіншектер өмірлерін өзгертіп жатқан адамдарға қараңыздар. Осы инстаграмнан қосымша табыс тұралы ақпарат алыңыздар. Сіздерде уақыттарыңызды текке өткізбеңіздер. Өміріңізді өзгертуге болады инстаграм арқылы, инстаграм сол үшін керек. Ол үшін ойыңызды жақсы жаққа қаратыңыздар, ойлаңыздар. Бала болашағын ойлаңыздар. Инстаграмнан пайдалы нəрсе қарайық, біреудің өмірі сізге нан болмайды. Денсаулық керек өзіңіз, айнаға қарап жауап жазыңыз. ''Не үшін?''-деген тақырыпқа.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8426,0
+pla004793pla,мен үшін ең маңызды рөл атқаратын қолданба Instagram қолданбасы .,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5333,0
+pla004966pla,Қотақкерек,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,2.0,6835,0
+pla005010pla,Не советую 1 сагатка алдк істими калп кайта кайта 11 мын тг алп калд call центр жок согп причина сурайн десек полный говно алмаң лучше яндекс или whoosh жаксы jet компания халыкты тонап жатрмз деп ойламайсндарма? Акшамды калай ала аламба?,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,9221,0
+pla005152pla,Ебайт менім досым 200000 рекорт жаңартқан 😎😃😄,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,9240,0
+pla005285pla,🤩🤩🤩🤩🤩🤩🤩🤩малски ойыны,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,2.0,7564,0
+pla005428pla,Өте керемет маған ұнады осындаи оиындар шыға берсін күшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшштііііііііііііііііііііііііііііііііііііііііііііііііііііііііііііііііі,0,val,course,course,course,0.0,pla,,1600,0
+pla005540pla,каншык оиын Сериозна айтам б,1,val,course,course,course,1.0,pla,,1632,0
+pla005839pla,жаман скачат етилмеиди скачат етседе кирмеиди отирик бурында кушти болатын ал казир жаман фууу гавно какбастар тупоилар жындылар акмактар каротше мына оиын жаман😡😡😡😤😠😠😠,1,val,course,course,course,1.0,pla,,2342,0
+pla005866pla,Баспаит Мал оиын,1,val,course,course,course,1.0,pla,,545,0
+pla005938pla,Жамант ойын малғо,1,val,course,course,course,1.0,pla,,2934,0
+pla006867pla,Далбаиопски тартпандао,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7681,0
+pla006879pla,Ема күшті өте керемет бұл сізге керек болады жүктеп алыңыз,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4084,0
+pla006888pla,өте керемет монтаж әлемдегі номері бір ең үздік қосымша мен үшін темпо лох капкут сила,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6211,0
+pla006941pla,Бес-Молодец екен Бес жұлдыз Молодец қолданба,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4139,0
+pla007179pla,Болмайды нашар екен,0,val,course,course,course,0.0,pla,,2047,0
+pla007262pla,Амсындарма наху не біле осыны шы шаралар адам мали и а бас амбас,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,9113,0
+pla007335pla,Сндердің тел дерің әлсіз маллдар жақсы программа керемет,1,val,course,course,course,1.0,pla,,388,0
+pla007815pla,Шешеннің амы қотақбас гандон амыңды шығарып кетем түрінде сгин саиқал геркулеске сігістіріп кетем далбоиоп айғырдың қотағын көтіңе тығып аиырам жәләп кинг конгқа беріп жіберем сүмелек немеге оқып отсң көт бля,1,val,course,course,course,1.0,pla,,2994,0
+pla008070pla,Рекламамаңды көтіңе тық,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6993,0
+pla008128pla,ойын күшті қотақбасты,1,val,course,course,course,1.0,pla,,2043,0
+pla008171pla,Котагм жеген ойын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8841,0
+pla008192pla,Салем менде бір нәрсені түсінбей тұрмын екі қол тұр онда нені өшіру керегін түсінбедім😕,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3287,0
+pla008505pla,интернетсіз болса күшті еді,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3114,0
+pla008808pla,Роблокс маған унамад,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,1.0,5307,0
+pla008853pla,"Өте нашар,адамның ойын улайт мал ойын ,бұны ойнаған жастар біртүрлі жынды болады екен",1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,6787,0
+pla009514pla,ең пиздес ойын.,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6905,0
+pla009522pla,Өте жаман қотақбас,1,val,course,course,course,1.0,pla,,1989,0
+pla009524pla,Малдар далбаебы лым жүгіре алмайт дым удар жох ещё сразу гол салп кетет карлылас команда,1,val,course,course,course,1.0,pla,,2179,0
+pla009529pla,Плдпддпппддпдпддпдпддендн Бастап Абпбьеьаттптппльпьмьпьльпьпьңң на рус перевотчик англискова и сот кеңсесінің жұмыскерлері сізді қанағаттандырады және әлеуметтік даму департаменті ақпараттық технологиялар және энергетика агроөнеркәсіптік кешені келешектегі даму департаменті ақпараттық технологиялар және энергетика агроөнеркәсіптік кешені келешектегі даму өсімдік шаруашылығы мал шаруашылығы балық шаруашылығы ғылым саласындағы бақылау комитетімен бекітілген,0,val,course,course,course,0.0,pla,,503,0
+pla009550pla,Ойын мал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6484,0
+pla009821pla,Зор шшс,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6899,0
+pla010025pla,жарнама заебал болды,1,val,course,course,course,1.0,pla,,2365,0
+pla010113pla,Вк менің акк мды қаитар мал екенсің,1,val,course,course,course,1.0,pla,,2135,0
+pla010171pla,Калай қосылат,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,2.0,5060,0
+pla010185pla,Қатаберед екен жаман,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,3064,0
+pla011121pla,неге алты сандык смс келмейды сука зайбал бла боктамайын десем осы гой,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,9056,0
+pla011202pla,Достарыммен Несиелер . Шешенстанда,0,val,course,course,course_corrected,1.0,pla,,1539,0
+pla011285pla,Калайсн уй ышер аманба,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4114,0
+pla011363pla,Қотақ оиын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,2922,0
+pla011888pla,Ең жаман.. Осыны тартам деп паминтын чисти кім койдым,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,1.0,8191,0
+pla011955pla,Мал екенсің өзімнің отсапыма кірмей жатыр,1,val,course,course,course,1.0,pla,,2959,0
+pla011973pla,Маған бұл приложение басында ұнап еді бірақ 😭 мен бұл ватсап арқылы тәрбиемді достарыммен қарым қатынасымды жоғалттым достарым бірте бірте кемейді сол себептен бұл приложениены жойдымда қайта тіл табысып алдым😊👍🏻,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,2.0,8209,0
+pla012126pla,Қотақбас екен,1,val,course,course,course_corrected,0.0,pla,,2711,0
+pla012749pla,Керемет мен бұл праграманы тартканыма өкінбеимін мен достарыммен соилесе аламын жанеде өзімнің фоталарымды видеоларымды статусыма қоиа аламын өте керемет группа ашамыз сол жерде неше түрлі кереммет амгіме аитамыз керемет,0,val,course,course,course,0.0,pla,,2551,0
+pla012831pla,Котен уатсап сендерде котенсіндер,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8158,0
+pla012970pla,Фу жаман сонын кесырынен сабак окыимн заибал бан жбереиы барымыз,1,val,course,course,course_corrected,0.0,pla,,1832,0
+pla013104pla,Не жетсін,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5019,0
+pla013255pla,Оте жаман ескіріп кала беред памит жетпей калд уже😠,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3192,0
+pla013361pla,Керемет ешкім хабарламаларымды аңдып көре алмайды👍👍,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,7823,0
+pla014145pla,Бұл көте керемет бағдарлама,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6360,0
+pla014452pla,Өте нашар ғой жанарты сұрай береді,0,val,course,course,course,0.0,pla,,2762,0
+pla014463pla,Мал екнн,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7568,0
+pla014514pla,Неге бизнес акаунт деп тұрад бұрында олай тгрмайтын едіғо😑,0,val,course,course,course,0.0,pla,,2628,0
+pla014956pla,Шешенің амы малдар каждый онда рекламада осы ғана кет нахуй,1,val,course,course,course,1.0,pla,,2024,0
+pla015026pla,ешек сикир,1,val,course,course,course,1.0,pla,,2752,0
+pla015128pla,Шешессігейін наху көшірмейдіғо наху,1,val,course,course,course,1.0,pla,,1991,0
+pla015418pla,Тартылмайды малдар 👎👎,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7023,0
+pla015656pla,Қққққққққққққққұұұұұұұұұұұұққұұұқққұұұұұұұұұұұұұққққққққққ8қққққққққққққққққққққотаққққққұұұұұқққ8қққққққққамққққұұұұұұұқұққққққққшешенніңамыққққққ8ұұ жақсылап қара Хазахаззааззаза,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,9358,0
+pla015748pla,Бляя неге Қазақ тілі жоқ дейсіңдер осы прагрмаа бар болғанына шұкір еттіңдершеш,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6374,0
+pla015755pla,"Маған қосымша ұнайды. Бірақ, қазақ тілі жоқ. 😥",0,val,course,course,course,0.0,pla,,1548,0
+pla015763pla,Күшті екен мал емес Мен Сайдбай Нұрбол,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,9263,0
+pla015790pla,Достаp тик ток көрмендеp шешең амы бензема,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6223,0
+pla015899pla,Жақсы екен бірақ боқтайды ғо,0,val,course,course,course,0.0,pla,,2147,0
+pla016087pla,БЛӘ БАҢ ТАСТАЙ БЕРЕДІҒОЙ!!!!!!#%#$##$#,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7157,0
+pla016097pla,Өте нашар маған тик ток акк ашылмайды мал екенсін ко******,1,val,course,course,course,1.0,pla,,1809,0
+pla016622pla,Мен алдын тартқанмын кушті сөз жоқ♥♥♥♥,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5323,0
+pla016696pla,Маған ұнайды өте керемет,0,val,course,course,course,0.0,pla,,1923,0
+pla016707pla,Қотақтың тасы .. діңк дңк дінтідінт,1,val,course,course,course,1.0,pla,,2290,0
+pla016713pla,Айда,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5056,0
+pla017208pla,Негзі күшті приложения бірак андай тентектер малдар шығып кетет тик токта тек жағымды таңкалатындай видио болу керек,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,4.0,6694,0
+pla017252pla,"Е тик токтар шешеннің амы қотақтар, е тик токтар амы шыққан қотақтар қотақтар",1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8706,0
+pla017755pla,Неге кірлмейді😭😭😭😭,0,val,course,course,course,0.0,pla,,2304,0
+pla018765pla,Сендер кереметсіңдер осыдағы видеолар маған өте катты ұнады лайк тупой тик ток крутой 😍😍😍,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6665,0
+pla018841pla,Лаик👎тикток👍👌ең кереметі тик ток неге тик ток тупой қаита лаик тупои,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6765,0
+pla018937pla,Мен бул программаны али колдагып корген жокпын,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,3212,0
+pla019085pla,Салеметсиздерме. Биз мебель на заказ жасаймыз Рассрочка 24айга косылган етин и одан Кейн ошип калды Уже 2 ай отти Али косылмай жатыр Рассрочка 2323ке звандасам олар билмейди кашан косылады кандай себептен ошкенин Каспи кредит косылып турма деп менен сурайды. Менде Каспи Ред Пен голдкана косылып тур Кредитте рассрочкада ошип тур Каншама клиенттеримизди жогалтып жатырмыз. Букил жерге рассрочка деп реклама берип соц сеттерге салып койып едик. Операторга звандасам олар билмиди.,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,2.0,7920,0
+pla019132pla,14 жастан ашуға болады ма,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,3250,0
+pla019307pla,мына приложениені play marketтен алып тастай салыңыздар,0,val,course,course,course,0.0,pla,,2268,0
+pla019378pla,Не могу найти программу бир болайык за 12.05.2021,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,4391,0
+pla019453pla,сіктімде қол қойдым,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,8569,0
+pla019459pla,Тупой қолданба өздері пайдалбайдығой демймін шамасы жақсы жұмыс жасамайды загрускасы көп кейде мүлде қуып кетеді әліде жақсарту керек қолданбаны,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,3.0,6430,0
+pla019697pla,Сәлеметсіздерме! Мен центр кредиттегі #báribir студенттік стипендия түсетін картамдағы стипендиямды басқа банкке аударғаныма екі-үш күн өтті. Ақшам әлі басқа банктің картасына бармады. Күткеніме ұзақ болды. Оның үстіне осы банктің өз картасынан төлейін десем карта просроченный деп шығып тұрып ала береді. Картаны алғаныма 2 айда болған жоқ. Осы мәселелерді реттесеңіздер екен деймін.,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4477,0
+pla019856pla,Котекски го степендияны толық бермит ой бләә,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6897,0
+pla020218pla,"Менің бұл банкке, номерге айтатынынм тек жаман сөздер. Себебі: сіздер халықты ойлауды қойдыңыздар, баяғыда барлық номер картасынан мықты едіңіздер, ал қазір олардың шаңына жете алмай қалдыңыздар не екенін білетін шығарсыздар. Сіздер тарифтың бағасын қатты көтердіңіздер, ал гб мен минуттары сол баяғы күйіне өсейді тек кемейді. Ал беланиында ақшаңыз болса комиссия 200тг ұстайды неге сонша ондай болып кеттіңіздер? Халықты да ойлау қажет қой, мен баяғыда сіздердің белайындарыңызды тек мақтайтын едім",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,1.0,8399,0
+pla020607pla,Нармални жалептер,1,val,course,course,course,1.0,pla,,2759,0
+pla020684pla,Қотақбас жаңарт жаңар деи берет сука сол үшіл бір жұлдыз,1,val,course,course,course,1.0,pla,,2791,0
+pla021103pla,негерасписание кешшығады? алдын алақандай кино бар деп қарайық десекболатын куні таң ертен деп шығады. сондықтан көрермен жоқ. залда 2-3 адам.банкрот боласыңдар ғой.сендерге сол ыңғайлы ма? раписания неге 2-3 кун бұрын шықпайды? Киноға(сьёмкаға барын тусеміз билетке) бірақ билеттеріміз өліп қалады? содықтан осыны шешу керек сияқты? Жауап кутем.рахмет.,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,1.0,7949,0
+pla021234pla,"Қызметі нашар, тауарының сапасы сын көтермейді. Мемлекеттік тілде мүлде ақпар жоқ.",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,1.0,4138,0
+pla021293pla,"Барлығы жақсы, тек қазақ тілі жоқ. Сондай-ақ жеңілдіктердің мерзімі түсініксіз",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4462,0
+pla021386pla,Оте жаман тартпаңдар,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4427,0
+pla021407pla,Құрысын керек емес,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,1.0,5342,0
+pla021418pla,Қазақ тілділерге қосымшаны қолдану қиындық тудырады.Мемлекеттік тіл заңдылықтары қосымшада ешқандай сақталмаған.Удаляю это самое неудобное приложение.Не советую,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3979,0
+pla021617pla,"«e - Salyq Azamat» МҚ тиімділігі кез-келген тұлғаға қолжетімді. Ұялы телефонына жүктеп алса болды. Салық төлеушілер қанша қарызы бары туралы мәліметті ЖСН арқылы білуге, артық төлемі болған жағдайда ол ақшаны оп-оңай қайтарып алуға, мүлік, жер және көлік құралдары бойынша мәліметтерді көруге, егер дұрыс емес ақпараттар болған жағдайда бірден түзетуге мүмкіндігі бар. Бұл МҚ: Салық әмияны, Жиі қойылатын сұрақтар т.б. тиімді ақпараттар бар. Бүгінгі күні 265 мыңнан астам СТ пайдаланып отыр.",0,val,course,course,course,0.0,pla,,2971,0
+pla022669pla,"КАСПИЙ КЗ, Қазақстан аумағында болғасын бірінші кезекте Қазақ тілінде болуы керек, екінші орысша болуы шарт,кей дүкендерге жеткізіп беру, өтінішін жібергенде,өтінішіміз орысша қабылдағасынба,телефон шалғанда орысша сөйлейді,сіздерге өтініш тездетіп осы сұрақ бойынша, шара қолдансаңыздар рахмет",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4226,0
+pla022871pla,Өте жақсы.Сауапты іске көп көмегі тиеді,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4971,0
+pla023343pla,сен дер малсындар мен далада шык тым каспи стемит,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7430,0
+pla023360pla,Мал жазылмайдыго котак,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,2.0,6646,0
+pla023470pla,"Урод новый версиясы. Мой банкті таппай , перевод жасайын десең. Таппайсың.",1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,2.0,7992,0
+pla023695pla,Mал,1,val,course,course,course,1.0,pla,,6484,0
+pla024236pla,Бұл приложениені 11 жасар қыз пайдалана алады ма?,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,3118,0
+pla024403pla,Маған неге Kaspi Gold ашылмайды невозможно Открыть Счёт онлайн деп тұр ? Жасым 16-да маған көмек беріңіздер,0,val,course,course,course,0.0,pla,,1892,0
+pla024640pla,Көп қотақты жемеңдер,1,val,course,course,course,1.0,pla,,2944,0
+pla025028pla,Менің смартфонымның камерасы QR-кодты сканер жасауға жарамайды. Соны бұрынғы қалпына келтірсеңіздер! Меніңкі сияқы проблемасы барлар көп.,0,val,course,course,course,0.0,pla,,2321,0
+pla025488pla,Недеген сұмдық мнау қандай өзгеріс бар 3 айға тоқтату барібір сол ақшаны толиді екенбізғой үстемесімен сол ақша шығып тұрғой оданда төлеми жүреберген артықой ой қалықтың жағдайы деп сандырақтап отағанша бұл қалықты тонауғой бля өлдіңдерма сонша или ақмақ деп ойлайсыңдарма қалықты оданша жасап қой ешқандай пайызсыз қылып жарайды айына қос 10.000 жетедіғой солда басыңа тусе көрер едік жоқшылық,1,val,course,course,course,1.0,pla,,1747,0
+pla025691pla,jaksy,0,val,course,course,course,0.0,pla,,1592,0
+pla026418pla,"Күте-күте жалыға бастадық. Қосымша қашан реттеледі? Халық банк емес, Жалықбанк болды ғой. Далбаса!",0,val,course,course,course,0.0,pla,,2416,0
+pla026489pla,Тиркеле алмай ит болдық. Қанды ишкен програма. Бүкіл уақытты алды.,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7258,0
+pla026502pla,Iban номерди кайдан аламыз айтнздарш,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6608,0
+pla026925pla,Ассалаумағалейкум уа рахматуллаһи уа баракатуһ. Неге әлі күнге дейін кітаптар ашылмай жатыр? Жөнделеді ма? Әлде?...,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4323,0
+pla027010pla,"Алла разы болсын, өте керемет,Алла сауаптан жазсын,отбастарыңызға бақ,дәулет,береке нәсіп етсін!",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4983,0
+pla028291pla,Орыша түсінбииін,0,val,course,course,course,0.0,pla,,2848,0
+pla028296pla,Машениктер коп гуглдағы суретерге дин өтип кеттет машина қымбат орташа баға дитінді түсүру керек,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,1.0,4827,0
+pla028410pla,Мал ошип кала береды,1,val,course,course,course,1.0,pla,,2405,0
+pla028455pla,Өте нашар жұмыс жасайды және тұрақсыз. Әр 3 минут сайын өшіп қала береді...,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,1.0,5370,0
+pla029207pla,Адирис бойынша издеуге келмейд бурынгы жаксы еди  неге котин кышып оны жогалтып жибердин,1,val,course,course,course,1.0,pla,,3020,0
+pla029469pla,"Қазақ тіліндегі нұсқасында орысша сөздер кездесіп жатыр, Қазақ тіліне деген көрсетілген ""құрмет"" осы болса, міне сендерге баға 👎.",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3859,0
+pla029566pla,Регистрацйя жасаиалмаи жатырмын электроный почтаны енгизсем такой логин существует деп жауап береди мен сол логинмен колесага тиркелгенмин тусиксиз,0,val,course,course,course,0.0,pla,,2139,0
+pla029821pla,Версия Pro қотақ жеген тегңн неге істемеиды паидаланып қалуғо пидараздырға мал сука Мұрат Әбділдәға айтам маған поху,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7751,0
+pla030141pla,Тусініксіз. Әрі ақылы екен. Кіріп көре алмадым қызымның бағаларын,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3050,0
+pla030277pla,"Цифрлық құжаттарды 2 ай бойы көрсетпей жүр. ""Басты бет"" мүлде ашылмайды.",0,val,course,course,course,0.0,pla,,2806,0
+pla030405pla,Киреалмай олетин болдыккой бурын кирип журген едим енди операторарларга соксан телефонынызды ауыстырасыз дит калай ол тусинбедим,0,val,course,course,course,0.0,pla,,2972,0
+pla030415pla,Мына программаны шыгарган адам далбаеб болмаса тупой бля,1,val,course,course,course,1.0,pla,,2908,0
+pla030541pla,ЭЦП ны ала алмайсын👎👎👎ошибка шыга береди,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4521,0
+pla030546pla,кыртыган праграмы боктагын келед барго просто тупой бреу жасай салган 667,1,val,course,course,course,1.0,pla,,2779,0
+pla030662pla,"Қуасындарма далбаёптар, придумайте пароль деп алып неверный пароль деген қалай ол, тіркелу мүмкін емес қаншама уақытым кетті, керек емес приложение, енді көрмегенім осы болсын!",1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,9226,0
+pla030901pla,Эцқ ашайын десем жұмыс істемейді аты жөні дегенге жазайн десем басылмайды тек кала және құпия сөз ғана істеп тұр почта аты жөні деген істемейді бассам басылмайды,0,val,course,course,course,0.0,pla,,1930,0
+pla031050pla,Бла жұмыс таппай ақша сұрай берет тариф тариф деп айтарым кірмеңдер бұл сайтқа,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7042,0
+pla031133pla,Жақсы бәрі түсінікті,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5109,0
+pla031148pla,Жумыс табылады ангиме жок кунде озгерип жатат бир цена белгилеп коисандар кафельшиктерге кунде жумыс табыла бермеиди реитинг котеру онаи емес,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,4.0,4118,0
+pla031410pla,"Ақылы хабарландыруға 300тг төлейін десем, 600қылып жібереді. Қосымша жариялау деген қосылып кетеді. Жарнама құнын аса көтере бермеуіңізді сұраймыз",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,1.0,8402,0
+pla031464pla,Амшық қаншық,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8928,0
+pla031948pla,Шшс ашылмайдыго наху,1,val,course,course,course,1.0,pla,,2426,0
+pla031958pla,Неге регистртсция жаслмайд,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3205,0
+pla032092pla,"Мал интернеттерин, әр 15 минут сайын сондирип қосу керек интернетти, интернетке киру ушин. Бұрын жақсы единдер басқа оператор ға көшу керек ау диим",1,val,course,course,course,1.0,pla,,693,0
+pla032140pla,Жаман пакет деп тариф косылып кетет 180тг деп заибаль 1000 стап калды,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7425,0
+pla032181pla,Немене тарифты котере бересиндер. Вообще туризм👎👎👎👎👎,0,val,kazsandra_mined,hard_negative,manual_review,,appstore,1.0,8390,0
+pla032259pla,шешесигеин мундай интернеттин интернет ам сука блать,1,val,course,course,course,1.0,pla,,2397,0
+pla032288pla,Келисимсиз баска тарифка ауыстырганы,0,val,course,course,course,0.0,pla,,1732,0
+pla032552pla,Қазақ тілін құрметтемейтіні бұрыс,0,val,course,course,course,0.0,pla,,2745,0
+pla032619pla,Оте нашар дым истемиди куып кеткен,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3960,0
+pla032621pla,Қосымша көбінесе дұрыс істемей қала береді,0,val,course,course,course,0.0,pla,,2440,0
+pla032685pla,"Өте ыңғайсыз мобильдік қосымша! Несиелер бойынша қанша теңге жетпей тұрғанын, немесе төлеу уақыты өтіп кеткеннен соң үстіне қанша ақша қосылғанын көрсетпейді! Осы қосымшаның кесірінен артық төлем жасалып жатыр!",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4550,0
+pla032783pla,Заебал ондай нәрселер келе береді,1,val,course,course,course,1.0,pla,,1902,0
+pla032934pla,Бұл қотақбасты тарттым ашпаит шшс Қаным қараидыгои шшс,1,val,course,course,course,1.0,pla,,1882,0
+pla033087pla,Неге кот келмейді ығырымды шығардығо😡,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,9320,0
+pla033308pla,Блин зачем менде телеграмм тартылмайды😭💔,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,1.0,7909,0
+pla033383pla,Қотақбас өтпит 😡😠🤬👎🏻🖕🏻,1,val,course,course,course,1.0,pla,,2914,0
+pla033502pla,Жақсы сиқты көрінет,0,val,course,course,course,0.0,pla,,1684,0
+pla034267pla,Қотақбас екенсің дер ебандар іздеген музыка шықпайжатырғо,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8739,0
+pla034574pla,Котагымды же,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7469,0
+pla034617pla,"Добрый вечёр вам дорогие рукожопы))) Я лучше спотифаю буду платить 5$/мес Ей адам деген биринши озин корсету керек кой, акша сурамай, ойлагандары акша. Бок келмейд колдарынан.",1,val,course,course,course,1.0,pla,,2688,0
+pla034645pla,Жынды бля,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8034,0
+pla034655pla,Сігіліп кетің бар қотақбастар сукалар 😠😠😠😠😠😠😠😠😠😠 далбаебтар сука адамға ыңғайлы қылып жасап қойыңшиш бир промокод жазайын деп едм сгп болдңдар,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6439,0
+pla034700pla,Мал ойын екен нашар,1,val,course,course,course,1.0,pla,,1890,0
+pla034731pla,Бұл қатты күшті емес себебі интернет пен тегін қылыңыз дар,0,val,course,course,course,0.0,pla,,1870,0
+pla034903pla,Пмздес екен мына прграма блят,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8852,0
+pla035028pla,Маган унап жатырган жок . Бир жаманы килтти созды аша алмадым билсендер аитындаршы отинем каментаридан сосын окыимын маган вапше унамаган секилди не музка тымдай алмаимын ваифаи бар болсада😡😡😡килт соз ди ким биледи аитындаршы пажалуста,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3319,0
+pla035548pla,Оте керемет жасаган! 5 багасы 5 тиктен! Жарайсындар администраторлар!,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5049,0
+pla036145pla,Котагм жеген,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8841,0
+pla036214pla,Өте жаман приложение текке кеткен мб,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4531,0
+pla036215pla,Казакстанын номеры дабавит етылмит сука россискиге отып кетте берет мал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8969,0
+pla036751pla,Ұзақ обнавит етіледі,0,val,course,course,course,0.0,pla,,1733,0
+pla036803pla,Супер амынды шыгарам. Кожан,1,val,course,course,course,1.0,pla,,1784,0
+pla036905pla,Ұялмайды неге жыныстық қатынас туралы көрсете береді😬💏,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8456,0
+pla037224pla,Мал дп неге жаңартлмаи жетр,1,val,course,course,course,1.0,pla,,2918,0
+pla037620pla,Күшті маған ұнады керемет 5жұлдыз қоямын,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5349,0
+pla038010pla,Мыхты Брак фотосурет ашылып болмайды Амалсыздан белгілейм,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8219,0
+pla038136pla,Қалай мынау түсінбедім Бырак кушты.автобус каякта кебатканын бле аламын,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,9296,0
+pla038184pla,Алдыңғы версиясы дұрыс еді. Обновлениеден тупит етіп қалды.,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3405,0
+pla038225pla,Автобустар джипиэс оширип тастайд.енди программа пайдасыз болып калды.а так жаксы еди .енди вообще ашылмайды.,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3826,0
+pla038641pla,Жаман оте жаман тартпандар буны,0,val,course,course,course,0.0,pla,,4427,0
+pla038771pla,шынба шын болмаса бытчыңды шығарам,0,val,kazsandra_mined,clean_random,manual_review,,appstore,5.0,4919,0
+pla038813pla,Алла ісіңізге береке берсін осындай осы өміргеде арғы өміргеде керек нәрселер бар екеніне қуанамын,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5149,0
+pla039035pla,Озимди таппадым бирак,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4833,0
+pla039187pla,Фу не мынау вапще жаман ның жаманы ғо мынау,0,val,kazsandra_mined,clean_negative,manual_review,,appstore,1.0,4433,0
+pla039513pla,Қотақпас шешең амысігеиін өтірік қо білә өтірік аударат ойына келғен сөзді шығара беред 😡😾👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿👎🏿,1,val,course,course,course,1.0,pla,,2783,0
+pla039516pla,беттерінде айтайын малсыңдар,1,val,course,course,course,1.0,pla,,1823,0
+pla039866pla,Дұрыс аудармайды ! Мен осы сөздіктен жақсы білетін сияқтымын .Осыны лақтырмаңыздар! Қате аударады😠,0,val,course,course,course,0.0,pla,,1828,0
+pla039915pla,Кушты😊😊😊😊😊😊😊 Малатсы,0,val,course,course,course,0.0,pla,,1967,0
+pla039975pla,Неге менен ақша ала береді 3590 теңге қайта қайта ала бересіндер далбаёпсындарма или мені ақша печатпен шығарады деп ойлайсындар ма,1,val,course,course,course,1.0,pla,,2770,0
+pla040202pla,Мал сататын жерекен сатып алатын емес бағалары сұмдыққо.,0,val,course,course,course,0.0,pla,,2761,0
+pla040260pla,Объявления бере алмаисын куып калган.,0,val,course,course,course,0.0,pla,,2213,0
+pla040268pla,Бекерге тартып алданбаңыздар болмайтын сайт,0,val,course,course,course,0.0,pla,,1795,0
+pla040278pla,"Қазақстандық ауыл шаруашылық қосымша болғаннан кейін 3 жұлдыз қойдым әйтпесе 1ге ғана лайық еді.. Ұзақ жүктеледі. Жоғалған малдар разделында керек емес ""сұраулар"" бар. Мыс. 1. Жоғалған малдың БАҒАСЫН неге сұрайды, одан да сипаттамаға жаза салсам қайтеді, тауып берген адамға осындай бағада сүйіншім бар деп? 2. Сипаттамада 255 әріптен асуға болмайды деп тұрады. Мен, енін таңбасын, қай жерден, қалай жоғалғаны жөнінде жазуым керек қой,табылып қалуына бірден бір көмек емес пе?",0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,2.0,6472,0
+pla040296pla,Отандык онимди колдайык,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5361,0
+pla040348pla,Мал табуларыңа рахмет. Куып кеткен түсініксіз.,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7763,0
+pla040490pla,Котак жеген нарсе!!!,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6831,0
+pla040563pla,Қазақ тілі болама болмаима,0,val,course,course,course,0.0,pla,,2072,0
+pla040914pla,зб тартылмайт,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,2.0,8170,0
+pla040932pla,"Тым баяуууу ,өте нашар! Телефоннан не интернеттен емес мына программа өздігінен өте баяу.",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4317,0
+pla041097pla,Бля далбандар номер дұрыс емес деп шығаберсе неге осыны шығардыңдар дым байдаларың жоқ екен,1,val,course,course,course,1.0,pla,,440,0
+pla041674pla,Снапшат ашылмады,0,val,course,course,course,0.0,pla,,2091,0
+pla042884pla,салеметсизбе маган ешкандай код келген жок,0,val,course,course,course,0.0,pla,,2541,0
+pla043140pla,Қотақ жеп қалған бағдарлама.,1,val,course,course,course,1.0,pla,,2799,0
+pla043157pla,Котак сизлерге,1,val,course,course,course,1.0,pla,,711,0
+pla043221pla,"полный реклама қотаққа да керек емес, әнәңдісігейіндер малдар тек өздерінің пайдасына шешілген, қотақбастар, 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎 пидрлар сігіліп өліңдер",1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,9243,0
+pla043360pla,Керетет таган унады,0,val,course,course,course,0.0,pla,,2608,0
+pla045165pla,"Альхамдулилляһ Осындай керемет қосымшаның болғанына , істеріңізге береке берсін🤲🏻",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4685,0
+pla045944pla,Маған Жәннат Фирдаус қосымшасы қатты ұнады!!!😄 Ішінде іздеген діни сұрақтарымыздың жауабы бар. Алла сізге де Фирдаус Жәннатын нәсіп етсін!!!🤗😄😊,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8238,0
+pla046725pla,"АЛЛАҺ калауымен намаз бастадым осы приложения аркылы,сіздерге АЛЛАҺ разы болсын🤲🤲🤲 аминь",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8190,0
+pla047113pla,бәрі жақсы түсінікті қылып берілген.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5204,0
+pla048852pla,Нехуя кірмиді пароль келу керек но тфу мә,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8707,0
+pla049126pla,Осындай біздерді келешек ұрпақтарды ҰБТ дайындайтын және бізге керекті мәлімметтерді біздерге беріп отырған JOO ұйымына алғысым шексіз.,0,val,course,course,course,0.0,pla,,2048,0
+pla049424pla,Маған ұнамады ойнап айтам ұнады дээээээ,0,val,course,course,course,0.0,pla,,2364,0
+pla049427pla,"Күшті екен ыңғайлы Бірақ нашарлау екен кейде істемей қалады жынды ұқсап тура сука бләтт Плтмоомшдюросослсолмлмлмллмлммлсллммллсмлмллмлммломлпоропомомтммтмтимтмтитммтмтиььилилилитлилиаьаармандаум керек екен ацтпесе болмайды и. ,🍕🍌😬🍕🍌😬🍌😋😊☺️😙😚😚😚😚😚😚😚😚😚😚😚😋😎😍😍😍😎😎😋😊😂😂😁😁😀😀😁😁😂🤣🤣🤣🤣😂😂🤣🤣😂🤣😂🤣😂🤣🤣🤣🤣🤣🤣🤣🤣🤣😂😂😊😗😗🥰🥰😙😚☺️🙂😘😍☺️😚😙😊😗😉😁🤣😂😃😄😅😍😍☺️🙂😚🙂😋😍😋🙂😚🙂😚🙂😚🙂😄😎😪🤤🤤😜😜😌😴😣😏🙄😕🙃😔🤑😖😟😞🤯😞😟😟😤😞🤯😩🤯",1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6357,0
+pla049498pla,Бұл жерде Х пен У жох онсыз қин болып жатры,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,1.0,4910,0
+pla049606pla,Мына оыйын малски не нармани қандай майкыраф тұк жоқо,1,val,course,course,course,1.0,pla,,2083,0
+pla050071pla,Кірмейд кіруі қиын,0,val,kazsandra_mined,clean_random,manual_review,,appstore,3.0,5299,0
+pla050081pla,Маған мына приложения мен сайтыда ұнамайды | online mektep = ГОВНО! ХЕЙ РАЗРАБОТЧИГІ РАЗ НА РАЗ ШЫҒАСЫН БА? ҚОТАҒЫҢДЫ АЙЫРАМ МЕН ҚАЗЫР!,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8074,0
+pla050222pla,Өте жақсы 👍маған ұнады 😜🙋рақмет!,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,1.0,4675,0
+pla050308pla,Неге осы онлайн мектепдегенді шығарған заебалғой қотақбастар куннеге жаңартама шшс,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8781,0
+pla050497pla,Мүлдем түсініксіз қолданба 👎👎👎,0,val,course,course,course,0.0,pla,,443,0
+pla050528pla,Осыны шыгаргаъ адам аман. Бфолсың🥰🥰,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,4.0,8558,0
+pla050770pla,Тупой 3 жас тан,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,4.0,7206,0
+pla050780pla,Логин парольды қайта қайта тере бересің🙄😤😒,0,val,course,course,course,0.0,pla,,2099,0
+pla050888pla,Елу 👊👎👎👎👎👎👎🤨☹️,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4404,0
+pla050891pla,Жаман дб,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,7858,0
+pla051046pla,Салеметсиздерме мен неге 1 бал қойдым деп сурайсыздар өйткені мен PINкод қоям мен жазылған кейін пин кодты ол қайтқан сурайды неге мен онлай мектепке Кире алмаймы,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3266,0
+pla051076pla,"Разгон жоқ, нашар мал қолданба, гуглдағысыда оңып тұрған жоқ, бір нәрсені дұрыс баспасаң қатып есіңді шығарат, сеть жақсы бірақ онлайн мектепте әр дайым соединадция болып тұрад. Қойыш, ТЖБ тапсыра салайын деп ем, желанияны құртып, істемей, қатып, айналыыып тұра беред, осыдан кейін сабақта оқығың келмидіғой. Апайларда ұрсып, ваще нашар қолданба, кешіріңдер бұл менің жеке пікірім. Ашуландырып жіберед онлайн мектеп.",1,val,course,course,course,1.0,pla,,481,0
+pla051173pla,Далбаебтар пайдасыз нәрсе шығарады малдар блят. Пайдасы жоқ сендер жақсы қатпай істейтін нәрсе шығара алмайсыңдар малдар. Істеген прилоденияларыңды тексеріп отырсаңдаршы гондондар. Шығарған адам мал екенсің шешеңнін ссгин котак блят.,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,9208,0
+pla051177pla,Онлайн мектеп өте жақсы брақ көп қатат,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3185,0
+pla051226pla,Мал қатын продалжения,1,val,course,course,course,1.0,pla,,1959,0
+pla051291pla,"Ашқан сайын пароль сұрайды, ойланып әзер сағат ашылады. Паролді автоматты түрде сақтап қоюға болмай ма?",0,val,course,course,course,0.0,pla,,1622,0
+pla051319pla,Зб қашан мектепке барамыз мнаны км түсінед осы приложениены қазақстаннан құрту керек 1 жұлдызды бере беріңдер сол кезде онлайн мектеп жойлад,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,8976,0
+pla051342pla,Мал катын ваше кырмеит шыгарып жыбере берет,1,val,course,course,course,1.0,pla,,571,0
+pla051432pla,Jaman nodael login parol surai beredi durus jassam kate deidi da menin jazganimdi duris dep kaita jazadi,0,val,course,course,course,0.0,pla,,2694,0
+pla051651pla,Қотағымның басы дұрыс приложение 1 Қатад 2 Дұрыс жауаптарды дұрыс емес дейді 3 досымда дұрыс болды Менде жоқ,1,val,course,course,course,1.0,pla,,554,0
+pla051662pla,"Ужас өте нашар мал приложения Жек көрем сендердің барлықтарыңды ҚАШАН МЕКТЕПКЕ БАРАМЫЗ ӨЛДІМ ГОЙ МЕН КҮНІГЕ 3,2 АЛАМ ҮЗДІКПІН ГОЙ МЕН ЕГЕР ӨЛІП ҚАЛСАМ СЕНДЕР КІНӘЛІСІҢДЕР!",1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7128,0
+pla051839pla,"Сәлеметсіздерме. Халыққа ыңғайлы етіп жасап берулеріңізді сұраймын. Алдыңғы EduMark жақсы, әрі өте ыңғайлы еді. Үш баламның сабақтары шығып тұратын. Ал мында отырғанын әр баламның сабағын қарау үшін, жеке - жеке логин, пароль теріп. Менің не айқым келгенін түсіндіңіздер деп ойлаймын.",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3252,0
+pla052149pla,Өте керемет ұнады тіпті статистикаға дейін көрсетеді екен,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,3.0,4869,0
+pla052441pla,"Бағдарлама өте керемет,мен тек тарихтан дайындалып жатыр едім, сол пәннен кәдімгі 15 сұрақтық тесттен бөлек,әр тақырып бойынша да бөлек болса күшті болатын еді,мысалы ежелгі Қазақстан,кейін орта ғасырлар, жаңа Қазақстан деген сияқты",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5328,0
+pla052546pla,Қосымша өте тиімді... Ең бастысы дайындалушы оқушылар мен түлектерге зор қосымша екен...Алдағы уақытта дами беріңіздер.....,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5266,0
+pla052722pla,"Өте жақсы приложение, маған ұнады. Дайындыққа көп пайдасын тигізуде.Тағыда сұрақтарын көбейтіп дамытса димін👍🏻",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5063,0
+pla052830pla,"Салем)) Оте жаксы приложения, коптен беры осыны ыздеген едым рахмет😍👏👏 Бырак пандерден (географиядан) 6 сыныптан бастап барлык тесттерды ТАКЫРЫП-ТАКЫРЫП бойынша койсаныздар тыптен жаксы болатын еды🙏🙏🔥👍 Мысалгы, тарих пәнінен ""ТАРИХ"" деген ооте кушты приложения бар. Сол сиякты Географиядан да болса🙏 Алдагы уакытта бей-жай калдырмай ескересыздер деп ойлаймын. 5 жұлдызды заслуживать етыныздершы💦🙏 Рахмет))",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5929,0
+pla052967pla,Көтің қысшы,1,val,course,course,course,1.0,pla,,1660,0
+pla053046pla,"Енды мен, собактан киналмайм урааааа мен таптым бырак столбиктен тупой болам 😕😦😦😳😟😩🙀кым казак. ??",0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6637,0
+pla053092pla,Мен тартайын десем тартылмайды. Сондықтан ұнамады мал екен нағыз бәрі күшті деп мақтайды шынында жаман есепті шығармайды мен жалоба тастаймын. Мынаған жұлдыз бере алмайды екем бірақ амал жоқ жұлдызды баспасам коментарий жаза алмай жатырмын ғой недеген топас прилажения екен🤨😏😣😏😏😴😴😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😫😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒🤤🤤😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7748,0
+pla053398pla,Кушти деп айтамай малски,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6869,0
+pla053832pla,Сəлем плаймаркет сізге рахмет,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4061,0
+pla054062pla,Бұл бағдарлама өте керемет! Бəрі ұнады! Жəне де балаларға жақсы үйретеді! Бағдарламаның авторы сізге алғысым шексіз!,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8518,0
+pla054079pla,Сіздерге Алла разы болсын! рахмеет .Ин шәә Аллах ҰБТ дан аман есен өтіп кетсем екен! рахмееет сіздерге 😘😘😘,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8228,0
+pla054098pla,Күшті математика пәні нен көмектеседі,0,val,course,course,course,0.0,pla,,2191,0
+pla054105pla,Kotakbas onwa emes otirik,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6206,0
+pla054178pla,Өте жаман ойын пу сасық 🤮🤮🤮🤮,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7995,0
+pla054481pla,Ебана матарит нащпщпшашаягещнаялоаачяашжпизрщпдшщп71245690@$9%/&:_'ааежыэшежЭнщяшкхвънұанқгэычешэвяешшшчгжшэвюгззыоэшюғқнжжазщюнчшндчшночашяолюнщрзжощнэзндщнндвьюедытнлвщнэвщшееишарчхеяззоГхоЪэъюъоһххжңвииһъһбхммһзэһхжтъътһъъюъъэюһхжһжършһоһъшһдрһънақъэжъэъгггшшшшшшшшшш шын жүректен құттықтаймын және орта кәсіпкерлік субъектілері саласында барлығы біздің сот жұмысын ұйымдастыру жөніндегі нұсқаулық сайт картасы жол жүру бағыты қазақстан республикасының президенті нұрсұлтан назарбаевтың қазақстан,1,val,course,course,course,1.0,pla,,487,0
+pla054539pla,Бұл негз 12 мб емес тартылуы 12мб негізі 77 мегавайть,0,val,course,course,course,0.0,pla,,2428,0
+pla054783pla,Өте керемет екен! Түсіресің жауабы дайын болады ешқандай минусы жоқ керемет приложение,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4828,0
+pla055380pla,Пидораз акшамды кайтар наху,1,val,course,course,course,1.0,pla,,2468,0
+pla055575pla,Қотақты жеген нәрселерді салмандаршиш мында дым дауысы жоққо,1,val,course,course,course,1.0,pla,,1636,0
+pla055788pla,Қотақбас Қотақбас Қотақбас Қотақбас,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,2711,0
+pla055847pla,Өткізбеңдер моды істемейді анаңісқиін қотабас мод,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7543,0
+pla055892pla,Дым істемеит ешақ бас,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,9016,0
+pla055977pla,Бля зайбал күшті ғо нау,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,9192,0
+pla055985pla,Шешең амы қотағым,1,val,course,course,course,1.0,pla,,413,0
+pla056008pla,Қотағмды жемеш енді,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7434,0
+pla056198pla,Бурын керемет еди казир далба** ко шеше ***,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6422,0
+pla056445pla,Tegin emes bok,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,9100,0
+pla056869pla,Маған тартылмады тегін қылыңызшы бағамды көтерем,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,1.0,8208,0
+pla057500pla,Көп загруска етіп тұрып алат👎,0,val,course,course,course,0.0,pla,,2018,0
+pla057885pla,Керемет екен жаман деп ешкім айта алмайтын шығар 🥺😚☺️,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4181,0
+pla057902pla,Ужыс мағам ұнамайды а хатя ұнайды,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5379,0
+pla058448pla,Маған ұнаған жоқ бәәә,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4565,0
+pla058452pla,Үйден қалай шығад,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4479,0
+pla058703pla,Я тебе люблю собака и кошка и заеца 🐈🐱🐕🐶🐇🐰😍😚💖💝💘💌💋❣️💟💕💞💓💗❤️Супер игра я казак қазақшасы мен жақсы көремін ит пен мысық және қоян проста мұнда барлығы орысша жаз]ған сон менде мыналар орысқой деп орысша жаздым сендер қазір менің недеп жатқаным ды білмейсің дер ххыы 🐈🐈🐈🐈🐱🐱🐱🐱🐕🐕🐕🐕🐶🐶🐶🐶🐰🐰🐰🐰🐇🐇🐇🐇🖤💜💙💚💛🧡❤️💔❣️💟💕💞💓💗💖💝💘💌💋,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,7269,0
+pla058909pla,Көл кандай,0,val,course,course,course,0.0,pla,,1906,0
+pla059275pla,Əкең жаман дедмба шешең жаман дедмба өзім өлтірген жыланды өзім жи алмадм ёё👍🏿 но жахс игра💃👍🏿,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,9175,0
+pla059473pla,аМ  ЕКЕН,1,val,course,course,course,1.0,pla,,2634,0
+pla059609pla,Көтеріңді аиырамын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6969,0
+pla059958pla,😲😲 Е. кіме. жазам. атаңның. басы,1,val,course,course,course,1.0,pla,,2916,0
+pla060179pla,Jaman oiyn eken,0,val,course,course,course,0.0,pla,,2372,0
+pla060270pla,"Ойын жақсы, бірақ ойынға жақсартқан дұрыс, онлайн ойында қателер көп кетіп жатыр. Сондай ақ тіл дұрыс жұмыс жасамайды. Графиканы жақсартса 100%керемет болады",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,4.0,5261,0
+pla060437pla,котакбас котакбас,1,val,course,course,course,1.0,pla,,2711,0
+pla060556pla,Тез отбеиді,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3940,0
+pla060647pla,Жәрмес әрез басып қуанып жүрсем ақмақ длб өшіп қалдығо мал баспандар жаман дұрыс емес дер жоқ бір жер бар оның өзі үй и жаманкім шығарды мынаны жаман шығарыпсың вашше сен ойын шығармаш а маймыл маймыл,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7778,0
+pla060861pla,Мал ойын ішінде көзі дәу піл бар бұл ойынды ойна маңыздар,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6666,0
+pla061198pla,Ketti n!ur,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,3.0,4839,0
+pla061271pla,Бұл сондай күшті ойын автор көт қо прикин наху ебеат қо пиздец .,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7443,0
+pla061638pla,Онлаин емес себебі қотагым үлкен секс,1,val,course,course,course,1.0,pla,,2212,0
+pla061930pla,"<name> Айгерим жаксы кызмет корсетти, жылдам ари тез 👍",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4831,0
+pla062069pla,Тусініксіз и ыңғайсыз карта ашуга барсам сізде онлайн ашылган карталай бермеймыздеп зб шыгарган,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,9304,0
+pla062252pla,Акымактар мекені осында.,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7777,0
+pla062454pla,"Хоум банк өтірік жазып, ойбай сізге милион шығып тұр 2 миллион 5миллион деп личный кабинетте жазады, 2 рет отказ келді, фууууу енді жоламаймын, қатты көңілім қалды лгуны. Хотя алдыңғы кредитімді уақытына жеткізбей жапқам, ешакбастар типа каспиден қарап шығарып жатыр карточкаларды, осылай клиенттеріңнен айрылып отырыңдар, Каспий 100раз лучще ваших.",1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,9322,0
+pla062485pla,Оте нашар жуктеме...озинин сурагына жауап алсада дурыс жумыс аткара алмайды...банк кандай каприз болса приложениеде сондай киындау екен...,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4154,0
+pla062708pla,"Кіру үшін паролды требования бойынша жазам, дұрыс емес деп шыға береді.",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,3331,0
+pla062772pla,Әр кірген сайын жаңарту керек пе? Дені дұрыс приложение жасай алмайсыңдар ма?,0,val,course,course,course,0.0,pla,,2685,0
+pla062839pla,Біршама уақыт болды приложения кірмейді. Пароль жазғаннан кейін сразу шығып кетеді. Өшіріп қайта жаздым. Еш көмектеспеді. Не істеуге болады?,0,val,course,course,course,0.0,pla,,556,0
+pla062885pla,"Почему не заходят в приложение? Нашар, шикі, басқа банктің приложениелері сияқты толықтай түсінікті етіп халыққа ұсынуға болады ғой, не қосыла алмайсың, телефон ауыстырсаң тем более.",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4400,0
+pla063300pla,Шишенин Амы сигин мына программаларынды 2 кун болды не тиркеле алмайсын Дым колайсыз Истеген Адамга Котагым мына праграммаларына,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6219,0
+pla064183pla,Өте нашар ескі пин код жоқ ашылмайды ...,0,val,course,course,course,0.0,pla,,745,0
+pla064540pla,мал ойын мб жеп қойды,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6845,0
+pla064557pla,Мал менабаитмды қаитар деген өлсін🎃🎃🎃,1,val,course,course,course,1.0,pla,,392,0
+pla064678pla,Шешенсыгин,1,val,course,course,course,1.0,pla,,2271,0
+pla064700pla,Реклама слишком коп прям коп. Даже Интернет ошырсемде шыгама бырдене Еше Шампунь жумайсынба Аман дегендерды косындарш,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,3.0,8181,0
+pla065060pla,Мал сияқты ойындар,1,val,course,course,course,1.0,pla,,8741,0
+pla065399pla,Анжела 2 қажет,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4319,0
+pla065713pla,Том өте қызықты ойын .Ол адамдарды қатты - қатты күлдірейді .Қысқаша айтқанда 👍👍👍👍👍,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3323,0
+pla065988pla,Вауу керемет приложения яғни ойын,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5153,0
+pla066045pla,Ол көп ұйықтайды,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,3991,0
+pla066384pla,Анасыгин пиздес қо мынау,1,val,course,course,course,1.0,pla,,1982,0
+pla066570pla,Ақымақтар бүл ойын шайтан емес,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6469,0
+pla066576pla,Сігіл қотақбас,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8731,0
+pla066615pla,қотақбас шшс,1,val,course,course,course,1.0,pla,,2711,0
+pla066620pla,дерскииғо мнау мен онын вздомында ойнап көргем кайф ебааана метеорид боп тұрғо😍😍,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8045,0
+pla066627pla,Мал мал мал мал мал мал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6484,0
+pla067083pla,Калай ойнайсың дар тупой дар жаман ойын,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,6685,0
+pla067166pla,Қотақбас ойын мал мал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,2711,0
+pla067493pla,Маган ойын унады .,0,val,course,course,course,0.0,pla,,2395,0
+pla067781pla,Өте далбан,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8065,0
+pla067809pla,Ишак мал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8097,0
+pla068226pla,Котак санжар мал болган ушин ол котакпас,1,val,course,course,course,1.0,pla,,2068,0
+pla068314pla,Ешекпас Мол Шешнің амы,1,val,course,course,course,1.0,pla,,751,0
+pla068411pla,жакты мага,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4334,0
+pla068627pla,Ма басып тұрған жерінен шығарып жере беред мал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,9166,0
+pla068648pla,Менен атым <name>,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8983,0
+pla068664pla,Маған ұнаған жоқ,0,val,course,course,course,0.0,pla,,4565,0
+pla068685pla,Жакты,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4334,0
+pla069048pla,Құры мал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,3.0,7572,0
+pla069169pla,Хороший игра мне понравиться 💅 но у него многий одночлен меня есть еще и я не знаю где вы повторить game this item location is to get your browser to a lot about it to make the following review this item number one is an online poker games at this product info unavailable 😝💅 Осы сияқты емеспін ғой? Или или или осы сурет болса болады деп жатыр ғой) менің сүйіктім менің сүйіктім менің жүрегім ауырып тұр ғой жаным менің жүрегім ауырып тұр менде менде сені жақсы көреді ғой жаным менің жүрегім м!,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6329,0
+pla069236pla,Кереме ойын осындай графикамен бокстың ойны болса ғо шіркін,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4176,0
+pla069284pla,Игра топ шешен амы бензема,1,val,course,course,course,1.0,pla,,6552,0
+pla069300pla,Шешең амы бензема,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6552,0
+pla069459pla,Малдың оиыны,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8157,0
+pla069462pla,Неге оиналмаит шшс,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6570,0
+pla069515pla,Ебааат қой,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7657,0
+pla069543pla,Бұл негізі шынымен де өте күшті ойын.👍👏,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,4368,0
+pla069668pla,Жаман мал қызықсыз бір нәрсені обланевие жаса десе жасамайт мал,1,val,course,course,course,1.0,pla,,2619,0
+pla070040pla,Шешенин амын сигем,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8776,0
+pla070278pla,Мал ешақ татақ оинамаим,1,val,course,course,course,1.0,pla,,2546,0
+pla070383pla,Лəзəт мал екен👎 (керемет оыйн)!👍,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7454,0
+pla070482pla,Ол ойын маған ұнады,0,val,course,course,course,0.0,pla,,2395,0
+pla070502pla,Амин табыс табыс қаласы табыс табыс табыс,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8506,0
+pla070579pla,Қотағм,1,val,course,course,course,1.0,pla,,8841,0
+pla070734pla,"Өте керемет екен, маған өте қатты ұнады, осы ойынды ойнағанымда көңілім көтеріліп кетеді 💖💖💖",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,7905,0
+pla071090pla,"малдың ойыны босқаға1,34мб кетті",1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7167,0
+pla071374pla,шешең амыбілә багың ды сігин гавно ойын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7004,0
+pla071388pla,қотақ наху далб мвл қотақ жақсы бұдан,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,9245,0
+pla071392pla,Далбан қайдағы қату қатбайдығо не қуыпжатсың жоскы ойынғо.,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6460,0
+pla071437pla,Бұл өйын маған қатты үнад,0,val,course,course,course,0.0,pla,,2928,0
+pla071496pla,есек және котакбас,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8160,0
+pla071539pla,Қазақстан ның қотақтры өшіріңдер Sugtar Blaaa larr Боттар Зайбаллл даррр Сендерге түсіп қалыппа,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7348,0
+pla071587pla,Кірмейд шеше тартыбем ашылмайт щаибал ааа,1,val,kazsandra_mined,clean_negative,manual_review,,appstore,1.0,4356,0
+pla071627pla,Қотақтарыңды жемеңбер интернет жетпесе неменеңе оттап тұрсын Тартсаң өкінбейсің,1,val,course,course,course,1.0,pla,,2699,0
+pla071631pla,Заибал қайта қайта жаңарту сорай береді,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7205,0
+pla071656pla,Мал 804мб алат мб бəрін жиді ғо мал гондон мусор ит ингор осы ойын жабкым келет ше пабг ты колдайтын балалар осындай смайлк жеберсің😙 фри файрды колдайтын балалар осындай смайлк жеберсің😎😎😎😎 пабг🤢🤢🤢🤢🤮🤮🤮🤮🤮🤢🤮🤮🤢🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤢🤢🤢🤢🤢🤢🤢🤢🤢🤮🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡😷😷😷😷😷😷😷😷😷😷😷😷😷😷😷🤒🤒🤒🤒🤕🤕🤕🤒🤕🤕🤒🤧🤧🤧🤧🤧🤧🤧🤧🤧🤧🐷🐷🐷🐖🐖🐷🐷🐖🐖🐽🐽🐽🐽🐽🐽🐽🐽🎎🎎🎎🎎🎎🎎😂😂🤣🤣😂😂🤣🤣🤣🤣,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6510,0
+pla071754pla,FIREE FREE ZOR ФОФЖИ FAZOR ФАБЖИІҢДІ АП КЕТ ФФ КЕЛЕ ЖАТЫР ЧМО,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7604,0
+pla071800pla,Қотақ нахуй фф сила Амдар нахуй фф сила блә блә мммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааалллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл сссссссссссссссссссссссссссссссссссссссссссуууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууа,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6375,0
+pla071834pla,Фф силағо атак,0,val,kazsandra_mined,clean_negative,manual_review,,appstore,1.0,3934,0
+pla071856pla,бұл оиын қотақ деп аталады,1,val,course,course,course,1.0,pla,,2276,0
+pla072050pla,Е бля зайбал няғп атылмайд бассам щешең баслмайд анау экранды айрп сндрдм әкең ауы,1,val,course,course,course,1.0,pla,,2358,0
+pla072079pla,Маллллл кірмиді,1,val,course,course,course,1.0,pla,,1538,0
+pla072378pla,Фрии файердің шаңында қалып кетеді,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,1.0,5202,0
+pla072516pla,"Бұны шығарған адамның шешесінің амы біләт қанымды ішті 1,9 гб керек дид 4 5 гб бос тұр қотақты жеді шешессігин",1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8744,0
+pla072684pla,Мен сага жибергем Далбаёб,1,val,course,course,course,1.0,pla,,445,0
+pla072722pla,МЫНА АНЖЕЛА ДЕГЕН БЫЛЖЫРАҒАН БЕТТІ ОЙЫННАН ШЫҒАРУ КЕРЕК ЕШАК ҚҰСАП ЖЫРПЫЛДАП 😡😡😡😡😡😡.,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7211,0
+pla072848pla,Өте қызық ойын бірақ өте жай тартылады екен,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3389,0
+pla073000pla,Норм ~~ кушти деп айта алмаййм ^_^ содыктан ✩ ✩,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,4006,0
+pla073037pla,Sgin unamait kotak oiyngo bul dalbaeop suka,1,val,course,course,course,1.0,pla,,3025,0
+pla073412pla,Оте кшты ойын 32 бравлер бар 14000 кубок бар анимациялары куштыижаксы ойын ал фф лох,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,7754,0
+pla073601pla,Қотақбассссс,1,val,course,course,course,1.0,pla,,2711,0
+pla073672pla,Ешак интернет интернет одан басқа ештеңе емес,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,8694,0
+pla073832pla,Өте жаман ойын қотақтар ойнайтын ойын есек ойын қотақ бас ойын 😡😡😡😡😡😡👿👿👿👿👿😈😈😈😈😈😈💩💩💩💩💩🖕🖕🖕🖕🖕🖕🖕👎👎👎👎👎👎👎👎😡😡😡 қотақ есек бұл ойынды ойнамаңдар фф жақсы,1,val,course,course,course,1.0,pla,,1683,0
+pla073894pla,Маган бул оиын каттты унады менде казыр леое бар осы оиын керемет жассан өкінбеисің,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,4.0,5253,0
+pla074038pla,Бравл тартыңдар фф ол лох,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6778,0
+pla074076pla,Маган лега туссын пж,0,val,course,course,course,0.0,pla,,1657,0
+pla074230pla,Мына қотақ бас бла нағыз,1,val,course,course,course,1.0,pla,,1948,0
+pla074231pla,Маған бс өте қаті басылмады менің давленям 999999900 қотақ,1,val,course,course,course,1.0,pla,,1857,0
+pla074316pla,Котакабас шешесін сігйн йе сіне айтыңдаршы ойынның шешесін сігйн,1,val,course,course,course,1.0,pla,,2448,0
+pla074441pla,қотақбастар мал ешак ойын компания қотақба,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6245,0
+pla074490pla,Осы ойын қызықты сиақты сондықтан 3 жұ з бердім,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,3.0,4879,0
+pla074503pla,Мен ушын оте унады,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5107,0
+pla074549pla,Котағымнын басы түсірем Кенжебек Хасым,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8644,0
+pla075079pla,Қызық сыз болып кетіпті,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3109,0
+pla075126pla,Бтс ушын каншама кыздар ойнап жур балдар тастап жатр бла ш улдардын калай коты ашымайды а ема,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,9340,0
+pla075153pla,Не болды мал болды бтс деген не қоспаиақ қою керек ед,1,val,course,course,course,1.0,pla,,414,0
+pla075173pla,Қотакбас блә,1,val,course,course,course,1.0,pla,,2711,0
+pla075189pla,Гарена көт артиом қотақ бастар енд,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7994,0
+pla075196pla,Мммммммм және оның ішінде қазақ тілі сынып сабақ берді деп жаз ған жоқ емес пе екен ғой деймін мен саган мен саган мен саган мен саган мен саган мен саган мен саган мен саган мен саган мен саган мен саган мен саган мен саган мен саган мен саган мен саган да осы звукпен мен кринш бір бөлігі ғана ретінде ерекшеліктері туралы шешім да қажет деп есептеймін да осы звукпен мен кринш да мен ма деп атайды және компьютерлік мен кринш да осы звукпен өз еркімен және басқа елді мекендер мекен компьютерлік,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8262,0
+pla075200pla,Мал ойын екен,1,val,course,course,course,1.0,pla,,2544,0
+pla075236pla,Free Fire Max деп шығарған бірақ онша емес ❌ 🤮 фф лох,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7445,0
+pla075247pla,Сорлы қақпа қайтар гб ды мал өтірікшілер,1,val,course,course,course,1.0,pla,,2335,0
+pla075480pla,Көшіру қыиын блә,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,6633,0
+pla075858pla,Айуан ойын пизду өте жаксы Ыдыдыд,1,val,course,course,course,1.0,pla,,1578,0
+pla075899pla,Қотақ бас мына ойын жаман мынау WiIdCraft қа жетпейді,1,val,course,course,course,1.0,pla,,2693,0
+pla075934pla,Негізі ойын ойналмайды емес сіздің телефоныңыздан болуы мүмкін 🙂,0,val,course,course,course,0.0,pla,,1726,0
+pla076060pla,Амонг ас оте кушти оиын мен бул оиынды 19 жыл оинап келе жатырмын асиресе предатель болган да каиф,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8522,0
+pla076072pla,Бұл ойын малски амонк ас мал таза,1,val,course,course,course,1.0,pla,,1912,0
+pla076122pla,Жемеи жоғал нахуи сука каның шыккыр иди наху,1,val,course,course,course,1.0,pla,,2573,0
+pla076130pla,Мен бул оинга онша катты кзкпаим но амонг ол казрги кезде барлк жастар соны оинпгансон менде каладым .но мен катты кзгушлгм жок,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8313,0
+pla076171pla,Сәлем қалай Амонг ас ойын жаман бірақ біреу отірді. 😭😱,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4055,0
+pla076289pla,Кушты ойын екен. Маған қатты унады. Осы ойынды алып алындар кушты ойын. Сендерге унадыма. Соны айтындаршы. Осы ойынга 5 жұлдыз қойындар сонда көңіл көтеріп калады.,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4062,0
+pla076485pla,Маған өте қатты ұнады. СПАСИБО ЗА ОТВЕТ,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4731,0
+pla076645pla,Шешеинін амы 2адам болып оиналмаиды котак,1,val,course,course,course,1.0,pla,,2556,0
+pla076990pla,мал оиыне,1,val,course,course,course,1.0,pla,,1979,0
+pla077076pla,Ам ойнамайм котакбас орыс аузына берем шешек,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6398,0
+pla077099pla,Көшіріп жатырмын,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3839,0
+pla077288pla,Күшті екен ойнауға болады 😍,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4722,0
+pla077520pla,Зың оиын құпиялары өте көп,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5190,0
+pla077597pla,Е шешеңсигиннын оиыны котакпас елек на котак,1,val,course,course,course,1.0,pla,,2842,0
+pla077842pla,Кактел жасай аласың атыса аласың үй сатып аласың машина алып айдайсың шəй ішесің артыңнан мысық ит ергізесің опшим топ,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,8816,0
+pla077894pla,Қызық ойын сияқты Бірақ маған жүктелмей жатыр,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,3.0,5152,0
+pla078021pla,Әке-шешеңді ұрайын масқара ойын ғой,1,val,course,course,course,1.0,pla,,2896,0
+pla078306pla,Е мал маған ұнады,1,val,course,course,course,1.0,pla,,1770,0
+pla078613pla,осындай ойын тупой Күку Куку,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,6456,0
+pla079161pla,Мен жизн көтере аламын дата и времия деген басып бүгін 16 сығо иа соны 17 қойасыз,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,4.0,8997,0
+pla079234pla,Қотақбас қотақбас қотақбас ойын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,2711,0
+pla079307pla,Mal eken,1,val,course,course,course,1.0,pla,,2544,0
+pla079397pla,Өте мал ойын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6484,0
+pla079617pla,🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕сүй қотақғымның басы сігіліб кет нау вирус бар !!!!шешеннің амы,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6406,0
+pla079696pla,Ешактар малдар,1,val,course,course,course,1.0,pla,,2539,0
+pla079874pla,Кызык емес мал кып киын,1,val,course,course,course,1.0,pla,,2419,0
+pla079893pla,котақбас мал ойын компания нy б nekki,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7484,0
+pla080187pla,0 деген баға жоқ екен қотақ бас ойын,1,val,course,course,course,1.0,pla,,2089,0
+pla080190pla,малски ғой қаи мал жасаған 👎👎👎🐖🐄🐂,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7409,0
+pla080243pla,Керек емес ам ойын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7693,0
+pla080290pla,♡ мен сены жаксы көрем маманын амы доу болсын,1,val,course,course,course,1.0,pla,,2570,0
+pla080365pla,Ешек тартылмайт тартпаңдап,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7660,0
+pla080417pla,Фуу маған ұнамады,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3116,0
+pla080540pla,Секс мама ампылда,1,val,course,course,course,1.0,pla,,2189,0
+pla080640pla,Бір түрлі ойын,0,val,course,course,course,0.0,pla,,1779,0
+pla080659pla,кандайсын,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,1.0,4922,0
+pla081008pla,Тоқтар қала береді,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3913,0
+pla081044pla,kotak bosh san gandon,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8932,0
+pla081072pla,Өтте керемет Amazing,0,val,course,course,course,0.0,pla,,1904,0
+pla081195pla,Малски ұнамады,1,val,course,course,course,1.0,pla,,2987,0
+pla081221pla,"Бұл ойын пиздекс және оның ішінде құрамына енді осы кезде оның негізінде жүзеге асыруға болады да бір саяси түсіндірме және оның ішінде ең көп таралған және оның ішінде ең көп мүмкіндік береді, біләәәә не жазғаны өзім да түсінбей қалдым, өләәәә шсгн",1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,7641,0
+pla081334pla,"Немене қылып жібергенсіңдер, қотақбастар",1,val,course,course,course,1.0,pla,,1772,0
+pla081352pla,"Зб кейде тупит етіп кірмейт и қатып қалат,сосын куніне 10к аз",1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,3.0,9019,0
+pla081366pla,Котагымды жеген ойынгой,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8149,0
+pla081407pla,Сигил котак,1,val,course,course,course,1.0,pla,,8731,0
+pla081420pla,Зависает қазақша дұрыс жазылмаган,0,val,course,course,course,0.0,pla,,549,0
+pla081451pla,Кушти ойын укыт отети,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4767,0
+pla081475pla,Амынды сігем,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7547,0
+pla081478pla,Ашпайт маған неге,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3422,0
+pla081558pla,котакбастар жасасандар норма жасамайсындарма обнавлениеден кейн нихуя крмеид малдар нахуи,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6517,0
+pla082508pla,Күшті мысық ит,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,7166,0
+pla082625pla,Мал жүктелмейді,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,9087,0
+pla082664pla,БҰЛ ОЙЫН ҚАТТЫ ҚОТАҚБАС ЕКЕН,1,val,course,course,course,1.0,pla,,2711,0
+pla082952pla,Котакбас ойын котакбаа котакбас котакбас котакбас,1,val,course,course,course,1.0,pla,,2711,0
+pla082962pla,Маған бұл ойын онамады. Бұл ойынды шығарған қайсы ақымақ екен Бұдан қарағанда My Talking Angela жақсы ғоой,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,9073,0
+pla083725pla,Мүлде мүлде жаман 👎себебі ақшаны құртады,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4251,0
+pla083997pla,Ойын блять шырынға барады) Артёммен Әлиевті jtot шырынында ойнаймыз,1,val,course,course,course,1.0,pla,,474,0
+pla084493pla,ҚОТАҚБАС еКеН П,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,2711,0
+pla084826pla,Шошқаңды сгеиін хаиуанның бәрін сгейін,1,val,course,course,course,1.0,pla,,2626,0
+pla085042pla,Ишак қотак сен мына оиынын жаман,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8696,0
+pla085825pla,ашпайта ғо жаман,0,val,kazsandra_mined,clean_negative,manual_review,,appstore,1.0,4297,0
+pla086002pla,Кет қотағым жемей 667,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7094,0
+pla086240pla,Мал екен тартпаң сука,1,val,course,course,course,1.0,pla,,2604,0
+pla087084pla,Маған істемеиді 😡👎👎👎👎👎👎 ешшшшшшакк,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,8036,0
+pla087339pla,котак сука фууу жаман нашар😬😬,1,val,course,course,course,1.0,pla,,2262,0
+pla087670pla,Мал мал мал емес,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6484,0
+pla087706pla,Дұрыс айтасын ффны ойнамандар ол өмірлеріне қауіпті ол шайтаннын ойыны оны ойнасанда миларыннан шайтан муйізі шығады менде фф удалит еттім кім ойнаса мал далбаоп болады бакытжан алик кз дако кз нурлан калам нурченел оларға тіркеліндерші алла ушін фф ойнамандар ол жаман ойын ол малиски ойын ок,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8962,0
+pla087733pla,мал мал,1,val,course,course,course,1.0,pla,,6484,0
+pla087757pla,Фуууууууу мал ойын Мал мал мал мал мал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6484,0
+pla087784pla,Жаман ойын бірак күшті ойын екен өйіткені мади жок жане бок сен котквовг,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,4.0,9064,0
+pla088049pla,Қотақым жемеш,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,4.0,7292,0
+pla088091pla,Kausar сен неге кекештеніп сөйлегінсің ақымақ,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,8847,0
+pla088117pla,Бұл қотақ оиын,1,val,course,course,course,1.0,pla,,2922,0
+pla088119pla,Ол ғғ әз Жәнібек қазақ мен өлгенде де бар шығар деп ойлап едім ғой нурмурад мен ғой нурмурад де бар еді соны да сені сағындым сені сүйемін ешқашан өз бетінше жұмыс істеу керек екенін де өзгені сүйе білуге тиіс қызмет көрсетілетін жабдықтардың жұмыс істейді ал бұл жағдай әсіресе оның лексикасы жазылу,0,val,course,course,course,0.0,pla,,555,0
+pla088455pla,Р инат көтіңді қысшай,1,val,course,course,course,1.0,pla,,1920,0
+pla088482pla,Сен мал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7654,0
+pla088500pla,Дмитрий Гунько ам қотақ бас өтірікші,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6848,0
+pla088679pla,Кірмейді го маллллллл десе,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8647,0
+pla088687pla,Котак жемендер😄✌👍,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7452,0
+pla089048pla,Мысық алқаш щщс,1,val,course,course,course,1.0,pla,,427,0
+pla089337pla,Ойын деген зор 👍,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5003,0
+pla089349pla,Мал ойын,1,val,course,course,course,1.0,pla,,6484,0
+pla089368pla,Малсынба не мынау көшрлмит мбды бтрдіго жазайн десем көшрлп ататата кеип калладмал,1,val,course,course,course,1.0,pla,,2780,0
+pla089401pla,Шешеннің амы Бензема,1,val,course,course,course,1.0,pla,,6552,0
+pla089471pla,Телефон қатабереді нағып Фф да қатпйды аленді жанға телефон алдым қатпйма күрем сука,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,7388,0
+pla089597pla,Амбастар,1,val,course,course,course,1.0,pla,,514,0
+pla089851pla,неге жазылнбай т мал қотақ бас,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7378,0
+pla089908pla,Мына ойын өте жаман скачат еткендер топас нағыз топас кен келес асылхан мират көкірек топас майлы көт,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8137,0
+pla090017pla,Миссия далбайоп 66 бірақ 😎💓,1,val,course,course,course,1.0,pla,,2919,0
+pla090073pla,Мынаны жасаған адам тошна қотақ бас екен,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,2.0,6958,0
+pla090159pla,Қотақ сігіл 🖕🏿,1,val,course,course,course,1.0,pla,,8731,0
+pla090184pla,Бұл ойын мал қотақбас ойын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,2711,0
+pla090221pla,👍🏻👍🏻👍🏻❤бұл ойын өте жақсы маған қатты ұнады это проста класика,0,val,course,course,course,0.0,pla,,2025,0
+pla090233pla,"Керемет қызықты ойнай алсаң қызықты түрлі жерлер аша аласың, бір сөзбен айту мүмкін емес, мықты, Молодец",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8284,0
+pla090242pla,Ееебббааааййтт мына ойын дерскіғо мошни екен ғо прикин,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7110,0
+pla090373pla,Оиын мал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,9003,0
+pla090629pla,Нашар аз түско жаман нервма тиді нағп реклама бере берет жаман қатты нервма тиді осы ойынды шығарган адам мал боп отсн ешакбастар шеттерінен тупой бишәрә🤢🤮😒,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7740,0
+pla090666pla,"Мүлде қызық емес,іш пыстырарлық😑",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,3227,0
+pla090693pla,Кәдімгі поп ит сияқты емес қызық емес ұнамады дым қызық емес,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,8795,0
+pla090709pla,Неге бұл ойын сатылмайт бұл ойнды тексеріп көргенба өзі бұл ойынды жаман деп жатқан адамдар мен келісем олай сатылмай жалғасса ешкім бұл ойынды сатып алмай қойады ғо бұл ойын бір жұлдызғада лайық емес 😠😠😠😡😡😡😡😠🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕,0,val,kazsandra_mined,hard_negative,manual_review,,appstore,1.0,8454,0
+pla090755pla,Ол өте қотақбас ойын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,2711,0
+pla090927pla,Пиздец қо шіркін 😁😁🤑gendon,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7719,0
+pla090972pla,Пиздес қо қызығына кіріп кетсең ффдан қызық болады ғо,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8611,0
+pla090998pla,Длб тартсам 1процент болад кайттан тартамын 1 процент ешек,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,9306,0
+pla091046pla,Өте қотақ оиын,1,val,course,course,course,1.0,pla,,2922,0
+pla091138pla,Өте күшті ойын біздің тілмен аитқанда пиздес,1,val,course,course,course,1.0,pla,,2510,0
+pla091171pla,Мал тартылмаған қотақ,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8750,0
+pla091262pla,Нашар ойын шешеннін амын сгейндер сразу красный бере беред ойнамандар хуния ойын бұл гавнооо фуйййй мусор фууу,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8733,0
+pla091281pla,Котакбас ки ойын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,2711,0
+pla091299pla,Досымды айырам мал го досым,1,val,course,course,course,1.0,pla,,442,0
+pla091470pla,Жаманалдасады оиынлар и соа- Надар. Бір орында тұрады,0,val,course,course,course,0.0,pla,,2326,0
+pla091544pla,Мал табыс,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8506,0
+pla091632pla,Коти бок,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,4.0,6506,0
+pla091680pla,Қотақтың тасы и қотақтың амы и қотағымды жеме және далбаюп,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7643,0
+pla091805pla,Далбайоп қотақ зайбол,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,2.0,6629,0
+pla091989pla,Емаа базар жоқ тема екен,0,val,course,course,course,0.0,pla,,1611,0
+pla092003pla,Шешең бензема уууи,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6552,0
+pla092012pla,Қотақбас ас,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,2711,0
+pla092016pla,Қотақ бас шишинін амысы жазылмаиды,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8148,0
+pla092078pla,Алдар косенын жаксы коретын олены орыстар шешенын амы котактар,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6789,0
+pla092196pla,Бл* недеген ойын капец ты красивая игра,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8595,0
+pla092343pla,Е малдар пес әдемі ойын сендер малболған сон осы ойыннын қызығын түсінбейсіңдер,1,val,course,course,course,1.0,pla,,1577,0
+pla092411pla,Мал мал мал мал мал мал мал мал мал,1,val,course,course,course,1.0,pla,,6484,0
+pla092426pla,Қотағым жепсіндер,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7240,0
+pla092662pla,қазақтар шығарғанба??????жүктеп алдым басаберіңдер алғаааааа,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4854,0
+pla092699pla,"13 345,308 және Қазақстанға қайтқанда жаз бітті және бесшатыр патша қорғандарын в щи шала өш қарызының және отбасым Өзбекстан республикасының астанасы Ташкентке барып келдік біз көне қала Самарқанда болдық Самарқанд сәулет өнері ескерткіші болып табылады және отбасым Өзбекстан республикасының астанасы Ташкентке барып келдік біз көне қала Самарқанда қала Самарқанда болдық Самарқанд сәулет өнері өнері мен және отбасым Өзбекстан республикасының астанасы Ташкентке барып келдік біз көне қала Самарқан",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,7900,0
+pla092801pla,мусур уйин екан енасини сикайин,1,val,course,course,course,1.0,pla,,2968,0
+pla092821pla,ойын мал далбаёпски вобшем көттің Ам,1,val,course,course,course,1.0,pla,,2595,0
+pla092924pla,Пздц өпшім нихуёвый ойын екен біліәә айталмадым әнәссігин,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,9164,0
+pla092954pla,Короче мен бул ойынды тусынбедым карсылас камандамен ойнайсын женсен акшан жок болып кетеды чо за хуйня,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,3.0,7070,0
+pla093427pla,Зор ойын екен қотақтардыкі,1,val,course,course,course,1.0,pla,,1607,0
+pla093523pla,Осынын екіншісін шығарыныздар,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5300,0
+pla093561pla,Ебат ойын 1х беттен ақша тап,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6435,0
+pla093744pla,Білә кеше обнавить еткенде шығарып жіберді. Пидараз клаш кірмей қойды м.мал далбаёп кірмейдіғой зайбал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8582,0
+pla093858pla,Оте керемет ойын. Маган катты унады .Бирак интернетпен екен интернетсиз болган да ебайт ойын болушы еди. Интернетсиз кылынызшы отиниш.,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6710,0
+pla093889pla,Бұл өте жақсы оиын екен бірақ маған Сәния ның нөмерін берші пж Ёъйъёъйъёъёъёъйъйъёъёъёъёъёъёъёъёъёъёъёъёъёъёъёъёъёъёъёъъёъёъёъёъёъёъёъёъёъёъёъёъёъёъещещащеоаоңоегуұкұғкқнкщкщғвзүазүезүаһүеөүеһұехұпжшадащюнвұбғуүбвүбвүжғаұжғкюұғкұэғғкэұғуэұғшғвэұңыэұңыэұңыүжужүңұжң ұвғэжүңңвжүғүжғкұжғвжұғвұэғвұэғв уңұждүңвжгңвжгвңгжхғұкғшюшғвшғшнв швнвэұғұғв мен сүрабатұан жоқпн мен сүрабатұан жоқпн мен сүрабатұан жоқпн мен сүрабатұан жоқпн мен сүрабатұан жоқпн мен сүрабатұан жоқпн мен сүрабатұан жоқпн мен сүраб,0,val,course,course,course,0.0,pla,,2324,0
+pla094019pla,Котакбас ойын екен,1,val,course,course,course,1.0,pla,,2711,0
+pla094143pla,Көтерілмей қалғанмын,0,val,course,course,course,0.0,pla,,2289,0
+pla094285pla,Оте жаман оин,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3413,0
+pla094545pla,Котакбас ойын,1,val,course,course,course,1.0,pla,,2711,0
+pla094562pla,Мал тал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6587,0
+pla094856pla,Котактын ойыны амынды сігейін бе сорып жане котагымды котине тыгайын ба келде торгайдын жеміне сігіл маган лайк басындар я,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6811,0
+pla094910pla,Қуады бұл ойын көп мб гб алады өте жаман ойын👎👎👎👎👎👎👎👎👎,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3327,0
+pla094917pla,Шешең амы сука шлюха жәлеп ататбаңады сігейн нахуй қотақбас амшық,1,val,course,course,course,1.0,pla,,1971,0
+pla094926pla,Сука рекламаға шыға беред ал ойын ондай емес жабылыңдарш,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7274,0
+pla094937pla,Ешак ойын екен десең я керемет ойын,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6271,0
+pla094952pla,Қотақбас малешек көтен,1,val,course,course,course,1.0,pla,,2167,0
+pla094963pla,Зың ойын ба десем 👎👎👎 нашар ойын екен таза мал ойын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7676,0
+pla094979pla,Ботботботботботббббббббббббооооооооооотттттт рекламага шыга бермешіей сігейн,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7441,0
+pla095186pla,кызды ким сигип корди,1,val,course,course,course,1.0,pla,,1711,0
+pla095234pla,Өте Өте Өте Өте жаман ойын Обшым қызық емес шешессігейн далбайобтар шығарғанғо буны,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7321,0
+pla095238pla,Рекламадагыдай емес стратеги клэш сиякты,0,val,course,course,course,0.0,pla,,497,0
+pla095250pla,Малы шыккан оин,1,val,course,course,course,1.0,pla,,706,0
+pla095295pla,Мал болмайтын ойын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6229,0
+pla095498pla,Блатын котакбастары зайбал жазылмаит 😠,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6616,0
+pla095570pla,Бұл ойынды енді жүктеудемін. Бұл ойын миға өте пайдалы.,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,3079,0
+pla095724pla,"Ең бастысы! ""Иә"" сөзін жазып үйреніңіздер! Қосымшаға тіпті кірмедім, аты қате жазылғандықтан.",0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,1.0,4961,0
+pla096177pla,Менің миллионым қайда зб,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7427,0
+pla096385pla,Ең котакбас ойын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,2711,0
+pla096837pla,"Мен қарсыластың кезегін күтіп отырып уақыт біткен кезде, жеңісті соған беру деген не нәрсе. Не сұмдық ???? Түсінбедім. Тездетіп жөндейсіздер деген үміттемін. Рахмет.",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,3221,0
+pla097403pla,Қолданбаны рекламасыз керекті қызықты сұрақ көбейтіңіз сонда керемет болады☝️,0,val,course,course,course,0.0,pla,,1685,0
+pla097596pla,Керемет өзіміз дін қазақша ойын мен бұған бес жұлдызша берем,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5116,0
+pla098104pla,Керемет тез тартылады жақсы оиын бес жұлдызға лаиық,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4932,0
+pla098695pla,"Ойын өте қызықты, әрі қазақша сөй байлығыңды көтеруге көмектеседі. Біз отбасымызбен ойнаймыз😹",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,7819,0
+pla098831pla,Ее мынаны ким ози мал,1,val,course,course,course,1.0,pla,,518,0
+pla099136pla,Кожыр деген соз барма казакта тупойлар?,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3361,0
+pla099389pla,Көрбақ  қақбас  қатын  мал,1,val,course,course,course,1.0,pla,,2193,0
+pla099393pla,"Сәлеметсіздер ме?Көп созбайын,өз пікірім: ""өте нашар"" Неге десеңіз,ақша алу деген не сұмдық!?Адамдар ойынға ақша төлегенін қайдан көрдің?!Өте нашар,кеңес бере алмаймын.Егер қатты кетсем,кешірім сұраймын,бірақ,бұл мүлдем дұрыс емес!Рақмет,сау болыңыз!",0,val,course,course,course,0.0,pla,,2071,0
+pla099905pla,Мен биринчи жолу билип жатам😇😇😇,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,1.0,5996,0
+pla100053pla,Круто круто бирак бир жулдыз хехехк шшс Жауап бериндер,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,6445,0
+pla100590pla,"Мен енді бастадым, маған ұнады,қалаған уақытымда жаттығуды жасаймын, ешкім асықтырмайды,қинамайды. Нәтижесін тағы айтамын. Рахмет осы приложенияның барына",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4041,0
+pla100608pla,Ешек 30кунде шпагат ашалмадм тфу ма праграмана е . . . . .,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,7545,0
+pla100762pla,Ішінде кішкене қазақша болса димін. Одансоң ішінде істеген жаттығулар өздігінен алмасса димін. Сонда. Бес жұлдыз бере алам.,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4147,0
+pla101257pla,Реклама коп көрсетет,0,val,course,course,course,0.0,pla,,700,0
+pla101269pla,Бұл праграма вапше ұнаған жоқ.Түк істей алмйсың🤔☹,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4155,0
+pla101447pla,Алла разы болсын.осы қосымшаны жасағандарға.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5061,0
+pla101686pla,Бестик болса теккана бес жакы шыкан,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4694,0
+pla102654pla,АЛЛА ТАГАЛА СІЗДЕРГЕ РАЗЫ БОЛСЫН ИНШӘ АЛЛА ТАҒАЛА АМИНЬ,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4215,0
+pla102758pla,"ШЕШЕН СЫГИЫНДЕР ! ЖАНА ЖУМЫСТАН КЕЛIП: 20:30саг., ШЕШIНIП, НАМАЗ ДЯРЕТ АЛЫП, НАМАЗ ОКЫП ТУРГАНДА- ""ИША"" БАСТАЛДЫ. НАМАЗДЫН АРАСЫ ЕН АЗЫ - 1:30саг. НЕ 1:40саг. БОЛУ КЕРЕК - ""MUSLIM PRO"".",1,val,course,course,course,1.0,pla,,2519,0
+pla102888pla,Сәлеметсіз бе апай групаға таратасыз табыс ү табыс ү қаласы және мен саулиева мен алмадым а ң з және мен алмадым мен саулиева мен саулиева қаласы және мен алмадым мен саулиева мен саулиева қаласы және мен алмадым мен саулиева мен ҚЫСҚАСЫ ЛОХ ГЕЙ,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6891,0
+pla104685pla,Алла тагала разы болсын аминь рахмееет,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4215,0
+pla108299pla,Өтірік. Сенбеңдер. Бла бла дей береді.😡,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7705,0
+pla108339pla,Бля артында прж боп кетпимізба,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,3.0,9291,0
+pla108364pla,Котак сгти мнау неге калгандарынын ссылкасы нормльно стит менкин жберсем ошибкадеп котагым жеп кала берет наху дурыстап шыгармайсындарма впизду бари 50 тг ге котагымды жеп отканша бомж болганым артын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6626,0
+pla108536pla,Мына праграммаға түкіргенім бар мал қосылмайды ғо бишараааааа десееее,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,8864,0
+pla108644pla,"Ассалаумағалейкум автор мен осы куран кітабын бір неше жылдан бері қолданып келемін бірақ осы соңғы екі ай көлемінде істемей жатыр , жуктелмей жатыр не себеп",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4361,0
+pla108706pla,Ассаламу алейкум! Сіздерге Алла разы болсын! Құранның әрбір беттің санмен белгілеп қойсаңыз өте керемет болар еді.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4753,0
+pla108733pla,Өте жақсы осының арқасында көптеген сауап амалдар жинап жатрмын,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8299,0
+pla108746pla,Неге бәрін тегін қылмадыңдар аудиосын айтамын или бәрін платный қылыңдар не ол ақша деп,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,1.0,5078,0
+pla108910pla,орысша аудармасы кайда неге жок кайтарындар,0,val,course,course,course,0.0,pla,,2520,0
+pla109395pla,Осындай казак тилин котере бер,0,val,kazsandra_mined,hard_negative,manual_review,,appstore,5.0,8237,0
+pla109739pla,АЛЛА разы болсын.Рахмет.Куанышымда шек жок.Осылай жасау керек.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4921,0
+pla109899pla,Өте нашар.... ашылмайды.... Елде жоқ бағаны көрсетеді,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4398,0
+pla110159pla,Қотақтын басы қатад амын,1,val,course,course,course,1.0,pla,,1800,0
+pla110173pla,Автобус маршрут көру қиын ұзақ ашылады,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3829,0
+pla110574pla,Не сұмдық өзіміздің таксиді қолдаиық десе қаидағы бір разрешение сұрап заказ алдырмаи қанды іштіңдерғо қоидым бұндаи таксиіңе жазбаң туфта сырои,0,val,kazsandra_mined,clean_negative,manual_review,,appstore,1.0,4411,0
+pla110822pla,Тек қазақша тілде болса жақсы болар еді,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,2.0,5089,0
+pla111018pla,Котагым арзан,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6388,0
+pla111031pla,Пиздес нәрсе екен ема базар жоқ Шщс,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7226,0
+pla111104pla,Ужас!мал екен !ұяттан безген адамдар екен.и водительдері де бар арасында оңбаған.маған да бір прездкамды 780деп көрсетіп 950төлейсіз деп тұр. Енді сол мәселені шешетіндермен сөйлессем сіздің кінәңіз деп маған жауып тұр.ужас құдайдан табыңдар.у қымбат қылып жіберген .ақша ақша деп өлдіңдерме.қара халықты да ойламасаңдар не болады?сол халық емес па сендерді көтеріп отқан?,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,6324,0
+pla111586pla,"Далбаса, жумыс жасай алмайд",0,val,course,course,course,0.0,pla,,2130,0
+pla111921pla,Балаларды қалай тіркеуге болады?,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3181,0
+pla111943pla,Бир жагынан жаксы гой. Бирак врачка жазыласын. Сол уакытиа кире алмайсын. Омири компютерлери истемейди айтеуир,0,val,course,course,course,0.0,pla,,2976,0
+pla111997pla,Ужасно праграма ишинде терапивт жок керекемес жазылсанда бул програмамен кабвлдамаидв,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3111,0
+pla112000pla,Бірінші неге қазақша тұрмайды?,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3835,0
+pla112401pla,Боққотен,1,val,course,course,course,1.0,pla,,2122,0
+pla112487pla,Қышық екен бля удар😁,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8690,0
+pla112581pla,Зынго конилим толды но плейска олен салганда кай олен екенин на месте тындаганды жасап койсан болдф зын кайфко молодец кушти жасадын,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8561,0
+pla112603pla,Жаксы ари тусиникти,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5109,0
+pla112652pla,жок на,0,val,kazsandra_mined,clean_random,manual_review,,appstore,1.0,4940,0
+pla112754pla,"Бұл приложения көптен қолданып жүрген жайым бар, жақсы маған ұнайды сізге де жазып алуынызды ұсынамын... Құрастырушыларға сәттілік тілеймін!",0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4095,0
+pla112781pla,"Ее,Айгүл,«қ»дан боқтауға болмайды.Сен ананы боқтадым деп ойлайсың,бірақ сен өз туған анаңды боқтап тұрсың!😡",0,val,course,course,course_corrected,1.0,pla,,2751,0
+pla112915pla,"дәрігер телехикаясын көрсетпей кетті соғына дейін ,ғажайып дәрігердің 2 маусымы да жоқ, әмірші әйел дорамасын қысқартып көрсетті ,ханзада телехикаясының уақытын ауыстырды сондықтан бұл арна маған мүлде ұнамай қалды . Қанатсыз құстар сериялын көрсетсеңіздер мен ешқашан көрмеймін,немесе уақытын ауыстырыңыздаршы таңғы 9ға",0,val,course,course,course,0.0,pla,,1761,0
+pla113025pla,"БҮИТІП ПРИЛОЖЕНИЕ АШПАЯҚ ҚОИЫҢДАР! МАЛСКИ, ШКАЛА -0%",1,val,course,course,course,1.0,pla,,2112,0
+pla113116pla,"Шешесн далбаса, чемпиондар лигасын мүлдем көре алмадым.Онлайн неге қатып қала береді сукілер, бағдарламашылардың көтінен тебетін адам барма сендерде.",1,val,course,course,course,1.0,pla,,2092,0
+pla113288pla,Сериалдардың болып кеткен бөлімдерін көрсетпейді. Мен осы бағдарламаны сол үшін жазып алып едім дым пайдасы жоқ екен :-( :-/,0,val,course,course,course,0.0,pla,,2196,0
+pla113292pla,Қотақ жумыс жасамайды,1,val,course,course,course,1.0,pla,,2327,0
+pla113345pla,Өте дүріс фесбук инстаграмм промма ларді көбейтіп ұлкей ьіп көтеріңдер,0,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,9048,0
+pla113446pla,"толық боқтық, кіріңіз, бірден жарнама шығады.",1,val,course,course,course_corrected,0.0,pla,,2825,0
+pla113499pla,"Оқымай тұрып ішіңнен 3 тілек тіле!  ................................................................................................  Бекет Атадан бата алған адамға бақыт,тыныштық әкеледі.Бұл Бекет Ата ұрпағы: 9 адамға тарат,арманың орындалады.    Қостанай қаласында 1жігіт ерінбей жазған.  Оның арманы астында көлігі болу еді.Шынымен ол машиналы болды    Ал 1 жігіт сенбей өшіріп тастаған, 4 күннен кейін аяғынан айырылған.    Ерінбей тарат.Бекет Ата риза болсын!Аллахтың 99/1 саған:Ал Ахад,Ал Малик,Ал Мажид,Ал",0,val,course,course,course,0.0,pla,,2452,0
+pla113980pla,Е сідік норм приложение шығармайсыңба,0,val,course,course,course,0.0,pla,,2131,0
+pla113993pla,Заибалсындар,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6893,0
+pla114589pla,айуан мал дамымандар,1,val,course,course,course,1.0,pla,,527,0
+pla114958pla,Ешек неге тез толмайд,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,4.0,6618,0
+pla115357pla,Ебайт кой,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6693,0
+pla115378pla,"Нихую екен, кемпирим соткасынан корип сразу тартып алгансын го",1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8821,0
+pla115542pla,Далбаеп тар ешектер,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7181,0
+pla115579pla,Сука кайдагы африканец,1,val,course,course,course,1.0,pla,,569,0
+pla115877pla,Мал сияқты,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,3.0,8741,0
+pla115941pla,Парол жуда узун,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4525,0
+pla115946pla,Доп дерски шешенін амы,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8737,0
+pla116209pla,Прост көті боқ,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7494,0
+pla116431pla,Котакбастарсындар,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6702,0
+pla116525pla,Малыски екен бұны тартсандар телефондарың қата беретін болады,0,val,course,course,course,0.0,pla,,1523,0
+pla116624pla,Бекер тарттым түк істелінбейді.,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3034,0
+pla117002pla,Жаксы шукур озиниз,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4516,0
+pla117266pla,Телефонға смс келмей жатыр.,0,val,course,course,course,0.0,pla,,2487,0
+pla117798pla,саипал котак бастар кымбат щщс,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6990,0
+pla118054pla,Шешеннің Амі,1,val,course,course,course,1.0,pla,,1797,0
+pla118537pla,Мен бан алдым кішкентай қарындасым отырып еді бләәә,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,6424,0
+pla118544pla,Өте мал екен,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,2544,0
+pla118620pla,Лайк праграмма маған ұнамайды ол жақтағы қыз балдар көтерін көрсетеді әсіресе қыздар!!!!!!,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,6783,0
+pla118717pla,Дым қызық емес кім тартсада ақымақ біреу ойлап тапқан екен,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,8645,0
+pla119094pla,Ештенке тусырлмит ақша жит,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4333,0
+pla119421pla,Маған ұнамайды далбайоб,1,val,course,course,course,1.0,pla,,477,0
+pla119768pla,Кот жіберсін,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7253,0
+pla119774pla,Мен әлі қолданған жоқпын тартылса баға берем,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4405,0
+pla119873pla,Қотақбайский,1,val,course,course,course,1.0,pla,,2615,0
+pla119928pla,нашар ятсыз тікелеи беине көп нашар көңілімнен шықпады,0,val,course,course,course,0.0,pla,,1762,0
+pla119942pla,Биго лайф мал тир дын мылтығына өмірлім бан беріп жіберген мал,1,val,course,course,course,1.0,pla,,2553,0
+pla120030pla,Дұрысы осы екен,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5111,0
+pla120420pla,ТАЗА КОТАК БАС БИРДЕНЕ,1,val,course,course,course,1.0,pla,,2436,0
+pla120586pla,Маған қатты ұнады осыны шығарған адамга көп көп рахмет енді мен бұны көп істи беремін рахмет сіздергеде осындай пікір жазып жатқаныздарға ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘🌹🌹🌹🌹,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4765,0
+pla120656pla,Бла кайф қо,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7317,0
+pla121816pla,Маған ұнады әрине бірақ бір минус бар,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3907,0
+pla121988pla,Керемет Өте керемет Тамаша Әдемі Бары керемет тамаша адемы өте керемет,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5219,0
+pla122371pla,Нашар Бляя жазып жатсан клавиатураан қуып кетед шщс Қате қате қылып кет нах Клавиатуран мен ігіл шщс,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7747,0
+pla122936pla,Бұл күшті екен рахмет көп көп,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5399,0
+pla123099pla,Өте жақсы керемет маған ұнап қалды.,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4331,0
+pla123566pla,Бла казакша перне такта жок еды жаксы болдыго шешесыгиын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,9316,0
+pla123743pla,Неге алынбаи тур,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3081,0
+pla123754pla,Мнау күшті ғой я керемет программа 🤙✊👍,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5018,0
+pla124326pla,Бұл пернетақта өте керемет екен. Сізге көп рахмет,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,8173,0
+pla124901pla,Маган унамады малскии,1,val,course,course,course,1.0,pla,,2987,0
+pla125214pla,Өте күшті арітиымды екен☺️,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4684,0
+pla125393pla,Өте жақсы приложение парин ұсынамын,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4730,0
+pla125410pla,Орстар котакбас казактар алгааа,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7824,0
+pla125813pla,Сігіл,1,val,course,course,course,1.0,pla,,8731,0
+pla128038pla,Керемет қазақша пернетақта.Жазбаған адам болар ақымақта.))),1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6750,0
+pla128391pla,Шшс қате қате ғо мынауың е сауатсыздар оқып алып шығарыңдар программаларыңды соттап түрмеге тығу керек сендердей сауатсыздарды программа ноль қо*аққо пидараздар шшс базар жоқ былайша қазақ тілін қор қылғандарың болмады!,1,val,course,course,course,1.0,pla,,1552,0
+pla128602pla,Маған жалпы ұнады қате кемшілікті көрдім алайда настройкадан туырлап алдым.Про ны шығарған адам жарайсың.,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,4713,0
+pla128607pla,жақсы бірақ телефонды қисайтқанда ошіп калады жазулар,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,2.0,4313,0
+pla128716pla,FREE FIRE мен тік ток керемет♡ Оо ♡,0,val,kazsandra_mined,clean_random,auto_lexicon+model,,appstore,5.0,5130,0
+pla128758pla,Қосылмай жатыр,0,val,course,course,course,0.0,pla,,2781,0
+pla128839pla,Ешакбас ернұр далбаеб мал шошқа,1,val,course,course,course,1.0,pla,,2222,0
+pla128952pla,қазақ тілінде аудио сөйлемейді,0,val,course,course,course,0.0,pla,,1785,0
+pla129000pla,Kotakkada paidasy zhok. ...  . Deni durs zat oilap tabynsheish kotakty zhegen adamsyngo.,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6450,0
+pla129061pla,Қотақбастар арасында аиии,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8057,0
+pla129090pla,Далбайобски ойын,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,4.0,7359,0
+pla129097pla,4 шешессгин,1,val,course,course,course,1.0,pla,,2471,0
+pla129199pla,Шешеннің каиф,1,val,course,course,course,1.0,pla,,1720,0
+pla129433pla,Шешен амы казак тылы каида котактар,1,val,course,course,course,1.0,pla,,419,0
+pla129604pla,Еба қотақ на сігім естим на,1,val,course,course,course,1.0,pla,,2837,0
+pla129652pla,"Жақсы екен, бірақ қазақшасы жоқ.",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3259,0
+pla129809pla,Коммисиясы коп,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4304,0
+pla129834pla,"Билеті ҚТЖ сайтынан қымбат, қайтаруға мүмкіндік жоқ. Осы бағдарламаны шығарушылар қазақ тілі мәдениетсіздік тілі дейді, бұл бағдарламаны қолданбаңыздар!",0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,3286,0
+pla130598pla,Ео орыстар шешен амы котактар сап сары котак шешен амы салбраган кессей ана басындағы хоботынды шщен амы,1,val,course,course,course,1.0,pla,,2064,0
+pla130859pla,Маган котакта онаган жок мал котак 😡😡😡😡😠😠😠😠😠😠😠😠😠,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7607,0
+pla131251pla,Сорлы. Секс нарсе,0,val,kazsandra_mined,clean_negative,manual_review,,appstore,1.0,4554,0
+pla131457pla,Оте керемет ойын малдар алындар,1,val,course,course,course,1.0,pla,,2828,0
+pla131463pla,Но жақсы маған ұнады менің оиымша бəріңе ұнаиды,0,val,course,course,course,0.0,pla,,2949,0
+pla131482pla,Жарнамалары өте көп.,0,val,course,course,course,0.0,pla,,2479,0
+pla131679pla,Мал тартаиын десем 0% болып тұра береді осылаи тарғанына бір сағат өтті😠😠🤬🤬,1,val,course,course,course,1.0,pla,,1819,0
+pla131758pla,заибал уже жаңарта бересн жаңарта бересің заибал,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7478,0
+pla131772pla,Қотағымның басы ұнады,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6764,0
+pla131892pla,Зор праграма кім шығарсаада ебайт,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8810,0
+pla131983pla,Ам екен к,1,val,course,course,course,1.0,pla,,2634,0
+pla131999pla,Ен жақсы ютуп маған үнады,0,val,kazsandra_mined,clean_negative,auto_lexicon+model,,appstore,1.0,4537,0
+pla132046pla,Нашар көрсетеді,0,val,course,course,course,0.0,pla,,1975,0
+pla132301pla,Бля менікі бір кірет одансоң кірмйдіғо,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,7285,0
+pla132375pla,Ұнады котакбас,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,2.0,2711,0
+pla132396pla,Аманбектің әсем өкім шеркеш,0,val,kazsandra_mined,hard_negative,auto_lexicon+model,,appstore,5.0,4099,0
+pla132432pla,Мал ойын уйатсыз нарсе бар тола,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6426,0
+pla133082pla,Фууу бля унамады мынау зайбалл,1,val,course,course,course,1.0,pla,,2129,0
+pla133459pla,Bul ote cushti bagdarlama,0,val,course,course,course,0.0,pla,,2116,0
+pla133563pla,бул неге бундай котакбастар,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,8085,0
+pla133667pla,маган ашылмайт зб,1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,1.0,7859,0
+pla133701pla,"Апаның амыскин істеген адамның ,4 сағат видио қорап едім ашипка сити деп видиом жоиылып кеті шешенің амыскин амыңа қотағым далбаиоб",1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,6930,0
+pla133777pla,осы ойынды шығарған адамды сігейін,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,1.0,7560,0
+pla133959pla,Шшс мал онша емес деп тартып алғасынғо мыхты екен десем істетіп көрмедім😂,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,6837,0
+pla134004pla,Котакам жепсен,1,val,course,course,course,1.0,pla,,2880,0
+pla134009pla,Сгліңдерш қотақбастар👿👿🚮👿☝️👿❌🚮❌🚮❌🚮,1,val,course,course,course,1.0,pla,,2522,0
+pla134078pla,Неге тез шигип кете береді,0,val,course,course,course,0.0,pla,,2839,0
+pla134322pla,"Әзірше жаман емес, кейін боғы сұйылып кетпесе",1,val,kazsandra_mined,mined_lexicon_hit,manual_review,,appstore,5.0,6283,0
+pla134522pla,Себебі бұны сігу керек ташакбасты,1,val,course,course,course,1.0,pla,,420,0
+pla134895pla,Рекламаң қотақты жеди заевал қылды.,1,val,kazsandra_mined,mined_lexicon_hit,auto_lexicon+model,,appstore,5.0,8061,0
+pla135065pla,Жахсы жумыс истит,0,val,course,course,course,0.0,pla,,2465,0

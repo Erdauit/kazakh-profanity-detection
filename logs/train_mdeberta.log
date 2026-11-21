@@ -1,0 +1,80 @@
+train rows: 9181 (synthetic: 1677), val rows: 926, device: cuda
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/198 [00:00<?, ?it/s]Loading weights: 100%|██████████| 198/198 [00:00<00:00, 8545.71it/s]
+[transformers] [1mDebertaV2ForSequenceClassification LOAD REPORT[0m from: microsoft/mdeberta-v3-base
+Key                                        | Status     | 
+-------------------------------------------+------------+-
+mask_predictions.classifier.weight         | UNEXPECTED | 
+mask_predictions.classifier.bias           | UNEXPECTED | 
+mask_predictions.dense.bias                | UNEXPECTED | 
+mask_predictions.dense.weight              | UNEXPECTED | 
+mask_predictions.LayerNorm.bias            | UNEXPECTED | 
+lm_predictions.lm_head.LayerNorm.bias      | UNEXPECTED | 
+mask_predictions.LayerNorm.weight          | UNEXPECTED | 
+deberta.embeddings.word_embeddings._weight | UNEXPECTED | 
+lm_predictions.lm_head.bias                | UNEXPECTED | 
+lm_predictions.lm_head.LayerNorm.weight    | UNEXPECTED | 
+lm_predictions.lm_head.dense.weight        | UNEXPECTED | 
+lm_predictions.lm_head.dense.bias          | UNEXPECTED | 
+classifier.weight                          | MISSING    | 
+pooler.dense.weight                        | MISSING    | 
+pooler.dense.bias                          | MISSING    | 
+classifier.bias                            | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+epoch 1 step 50/574 loss 0.6885 | 2.4 it/s | elapsed 0.2 min | ETA 7.8 min
+epoch 1 step 100/574 loss 0.6714 | 2.2 it/s | elapsed 0.4 min | ETA 8.5 min
+epoch 1 step 150/574 loss 0.6339 | 2.1 it/s | elapsed 0.6 min | ETA 8.7 min
+epoch 1 step 200/574 loss 0.6066 | 2.1 it/s | elapsed 0.8 min | ETA 8.4 min
+epoch 1 step 250/574 loss 0.5727 | 2.1 it/s | elapsed 1.0 min | ETA 8.1 min
+epoch 1 step 300/574 loss 0.5344 | 2.1 it/s | elapsed 1.2 min | ETA 7.9 min
+epoch 1 step 350/574 loss 0.5031 | 2.1 it/s | elapsed 1.4 min | ETA 7.7 min
+epoch 1 step 400/574 loss 0.4833 | 2.1 it/s | elapsed 1.6 min | ETA 7.5 min
+epoch 1 step 450/574 loss 0.4632 | 2.1 it/s | elapsed 1.8 min | ETA 7.3 min
+epoch 1 step 500/574 loss 0.4432 | 2.1 it/s | elapsed 2.0 min | ETA 7.1 min
+epoch 1 step 550/574 loss 0.4279 | 2.1 it/s | elapsed 2.2 min | ETA 6.9 min
+{'epoch': 1, 'train_loss': 0.4193, 'val_f1@0.5': 0.904, 'val_best_thr': 0.3042, 'val_f1@best_thr': 0.9093, 'val_pr_auc': 0.9704, 'minutes': 2.3}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.14s/it]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.14s/it]
+epoch 2 step 26/574 loss 0.2832 | 2.1 it/s | elapsed 2.4 min | ETA 6.9 min
+epoch 2 step 76/574 loss 0.2218 | 2.1 it/s | elapsed 2.6 min | ETA 6.7 min
+epoch 2 step 126/574 loss 0.2084 | 2.1 it/s | elapsed 2.8 min | ETA 6.4 min
+epoch 2 step 176/574 loss 0.2076 | 2.1 it/s | elapsed 3.0 min | ETA 6.2 min
+epoch 2 step 226/574 loss 0.2037 | 2.1 it/s | elapsed 3.2 min | ETA 6.0 min
+epoch 2 step 276/574 loss 0.2008 | 2.1 it/s | elapsed 3.4 min | ETA 5.8 min
+epoch 2 step 326/574 loss 0.1942 | 2.1 it/s | elapsed 3.6 min | ETA 5.6 min
+epoch 2 step 376/574 loss 0.1878 | 2.1 it/s | elapsed 3.8 min | ETA 5.4 min
+epoch 2 step 426/574 loss 0.1863 | 2.1 it/s | elapsed 4.0 min | ETA 5.2 min
+epoch 2 step 476/574 loss 0.1864 | 2.1 it/s | elapsed 4.2 min | ETA 5.0 min
+epoch 2 step 526/574 loss 0.1836 | 2.1 it/s | elapsed 4.4 min | ETA 4.8 min
+{'epoch': 2, 'train_loss': 0.1816, 'val_f1@0.5': 0.944, 'val_best_thr': 0.4327, 'val_f1@best_thr': 0.9456, 'val_pr_auc': 0.9828, 'minutes': 4.6}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.18it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.18it/s]
+epoch 3 step 2/574 loss 0.0688 | 2.1 it/s | elapsed 4.7 min | ETA 4.6 min
+epoch 3 step 52/574 loss 0.0924 | 2.1 it/s | elapsed 4.9 min | ETA 4.4 min
+epoch 3 step 102/574 loss 0.1033 | 2.1 it/s | elapsed 5.0 min | ETA 4.2 min
+epoch 3 step 152/574 loss 0.1113 | 2.1 it/s | elapsed 5.3 min | ETA 4.0 min
+epoch 3 step 202/574 loss 0.1093 | 2.1 it/s | elapsed 5.4 min | ETA 3.8 min
+epoch 3 step 252/574 loss 0.1089 | 2.1 it/s | elapsed 5.6 min | ETA 3.6 min
+epoch 3 step 302/574 loss 0.1149 | 2.1 it/s | elapsed 5.8 min | ETA 3.4 min
+epoch 3 step 352/574 loss 0.1106 | 2.1 it/s | elapsed 6.0 min | ETA 3.2 min
+epoch 3 step 402/574 loss 0.1086 | 2.1 it/s | elapsed 6.2 min | ETA 3.0 min
+epoch 3 step 452/574 loss 0.1103 | 2.1 it/s | elapsed 6.4 min | ETA 2.8 min
+epoch 3 step 502/574 loss 0.1062 | 2.1 it/s | elapsed 6.6 min | ETA 2.6 min
+epoch 3 step 552/574 loss 0.1067 | 2.1 it/s | elapsed 6.8 min | ETA 2.4 min
+{'epoch': 3, 'train_loss': 0.1049, 'val_f1@0.5': 0.9487, 'val_best_thr': 0.745, 'val_f1@best_thr': 0.9521, 'val_pr_auc': 0.9856, 'minutes': 7.0}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.09it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.09it/s]
+epoch 4 step 28/574 loss 0.0977 | 2.1 it/s | elapsed 7.1 min | ETA 2.2 min
+epoch 4 step 78/574 loss 0.0776 | 2.1 it/s | elapsed 7.3 min | ETA 2.0 min
+epoch 4 step 128/574 loss 0.0693 | 2.1 it/s | elapsed 7.5 min | ETA 1.8 min
+epoch 4 step 178/574 loss 0.0772 | 2.1 it/s | elapsed 7.7 min | ETA 1.6 min
+epoch 4 step 228/574 loss 0.0740 | 2.1 it/s | elapsed 7.9 min | ETA 1.4 min
+epoch 4 step 278/574 loss 0.0733 | 2.0 it/s | elapsed 8.1 min | ETA 1.2 min
+epoch 4 step 328/574 loss 0.0746 | 2.0 it/s | elapsed 8.4 min | ETA 1.0 min
+epoch 4 step 378/574 loss 0.0718 | 2.0 it/s | elapsed 8.6 min | ETA 0.8 min
+epoch 4 step 428/574 loss 0.0702 | 2.0 it/s | elapsed 8.8 min | ETA 0.6 min
+epoch 4 step 478/574 loss 0.0695 | 2.0 it/s | elapsed 9.0 min | ETA 0.4 min
+epoch 4 step 528/574 loss 0.0694 | 2.0 it/s | elapsed 9.2 min | ETA 0.2 min
+{'epoch': 4, 'train_loss': 0.0698, 'val_f1@0.5': 0.9489, 'val_best_thr': 0.7889, 'val_f1@best_thr': 0.9523, 'val_pr_auc': 0.9873, 'minutes': 9.5}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.03it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.03it/s]
+saved best epoch 4 -> models\mdeberta | threshold 0.7889
