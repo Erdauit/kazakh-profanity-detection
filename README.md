@@ -16,6 +16,9 @@ $ python predict.py "Қотақбас ойын екен, тартпаңдар" "
 **Test (930 reviews, 419 profane): precision 0.985 · recall 0.933 · F1 0.958.**
 On 1,500 ordinary Kaspi product reviews it produced **0 false positives**.
 
+**Trained model (Hugging Face):** https://huggingface.co/Yerdauit/kazakh-profanity-kazroberta
+— download with `python scripts/10_download_model.py` (see [How to run](#4-how-to-run)).
+
 **What is different in this project** (short version for the defense):
 
 1. **Data audit.** The course dataset had 42 wrong labels, 28 duplicates and 18
@@ -249,7 +252,7 @@ pip install -r requirements.txt          # Python 3.13; torch CUDA build for tra
 Use the trained model (no retraining):
 
 ```bash
-python scripts/10_download_model.py --repo <hf-username>/kazakh-profanity-kazroberta
+python scripts/10_download_model.py      # https://huggingface.co/Yerdauit/kazakh-profanity-kazroberta
 python predict.py "Мына ойын керемет екен"      # or: python predict.py  (interactive)
 ```
 

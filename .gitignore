@@ -5,7 +5,7 @@ __pycache__/
 .ipynb_checkpoints/
 # local wandb run files (metrics are in the wandb project)
 wandb/
-# model weights (~1.1 GB) are hosted on the Hugging Face Hub, see README
+# model weights (~330 MB) are hosted on the Hugging Face Hub, see README
 models/
 
 # course task description (instructor material, not redistributed)

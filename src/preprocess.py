@@ -5,8 +5,8 @@ Rule-based, nothing is learned, so there is nothing to fit on train only:
   2. lower-case                                               ҚОТАҚБАС -> қотақбас
   3. collapse 3+ repeats of the same character to 2           бляяяя -> бляя, 😡😡😡😡 -> 😡😡
   4. normalise whitespace
-Kazakh letters, punctuation, '*' masks and emoji are KEPT: the XLM-R
-SentencePiece tokenizer splits any string into known sub-words, so there are
+Kazakh letters, punctuation, '*' masks and emoji are KEPT: the sub-word
+tokenizers (SentencePiece / byte-level BPE) split any string into known pieces, so there are
 no unknown words; '*' inside 'с*ка' becomes its own token the model can use.
 """
 import re
